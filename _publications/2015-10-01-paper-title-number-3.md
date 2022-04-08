@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Efficient Federated-Learning Model Debugging"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/Efficient Federated-Learning Model Debugging
+excerpt: 'Data quality assessment in federated learning scenarios'
+date: 2021-10-01
+venue: 'Data quality assessment'
+paperurl: 'https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=9458829'
+citation: 'Anran Li, Lan Zhang, Junhao Wang, Juntao Tan, Feng Han, Yaxuan Qin, Nikolaos M. Freris, Xiang-Yang Li. Efficient Federated-Learning Model Debugging. IEEE ICDE 2021.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Data quality assessment in federated learning scenarios.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=9458829)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Anran Li, Lan Zhang, Junhao Wang, Juntao Tan, Feng Han, Yaxuan Qin, Nikolaos M. Freris, Xiang-Yang Li. Efficient Federated-Learning Model Debugging. IEEE ICDE 2021.
