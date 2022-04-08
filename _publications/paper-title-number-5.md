@@ -1,7 +1,7 @@
 ---
-title: "Sample-level Data Selection for Federated Learning"
+title: "TODQA: Efficient Task-Oriented Data Quality Assessment"
 collection: publications
-permalink: /publication/Sample-level Data Selection for Federated Learning
+permalink: /publication/Sample-level Data Selection for 
 excerpt: 'This paper is about selecting a collection of high-quality training samples for a given FL task under a monetary budget in a privacy-preserving way'
 date: 2021-12-01
 venue: 'Data selection'
