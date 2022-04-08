@@ -12,4 +12,3 @@ This paper is about selecting a collection of high-quality training samples for 
 
 [Download paper here](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=9488723)
 
-This paper is about selecting a collection of high-quality training samples for a given FL task under a monetary budget in a privacy-preserving way.
