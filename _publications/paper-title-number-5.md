@@ -1,16 +1,16 @@
 ---
 title: "TODQA: Efficient Task-Oriented Data Quality Assessment"
 collection: publications
-permalink: /publication/Sample-level Data Selection for 
-excerpt: 'This paper is about selecting a collection of high-quality training samples for a given FL task under a monetary budget in a privacy-preserving way'
-date: 2021-12-01
-venue: 'Data selection'
-paperurl: 'https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=9488723'
-citation: 'Anran Li, Lan Zhang, Juntao Tan, Yaxuan Qin, Junhao Wang, Xiang-Yang Li. Sample-level Data Selection for Federated Learning. IEEE INFOCOM 2021.'
+permalink: /publication/TODQA: Efficient Task-Oriented Data Quality Assessment
+excerpt: 'This paper presents a novel task-oriented data quality assessment framework, which balances between the intrinsic and contextual quality'
+date: 2019-12-01
+venue: 'Data quality assessment'
+paperurl: 'https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=9066076'
+citation: '5.	Anran Li, Lan Zhang, Jianwei Qian, Xiang-Yang Li, Xiang Xiao. TODQA: Efficient Task-Oriented Data Quality Assessment. IEEE MSN 2019.'
 ---
-This paper is about selecting a collection of high-quality training samples for a given FL task under a monetary budget in a privacy-preserving way.
+This paper presents a novel task-oriented data quality assessment framework, which balances between the intrinsic and contextual quality.
 
-[Download paper here](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=9488723)
+[Download paper here](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=9066076)
 
 
 
