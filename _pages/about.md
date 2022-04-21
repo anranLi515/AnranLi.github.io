@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Anran Li's home on the web!
+**Research Fellow.**
+
+Department of Computer Science and Engineering
+
+Nanyang Technological University, Singapore
+
 
 A data-driven personal website
 ======
