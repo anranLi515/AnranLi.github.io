@@ -1,7 +1,7 @@
 ---
 title: "Privacy-preserving Efficient Federated-Learning Model Debugging"
 collection: publications
-permalink: 
+permalink: /publications/2009-10-01-test-accts-intro
 excerpt: 'This paper is about identifying erroneous training data in federated learning scenarios.'
 date: 2021-12-01
 venue: 'Model debugging for federated learning'
