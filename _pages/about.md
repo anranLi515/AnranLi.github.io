@@ -27,13 +27,13 @@ School of Computer Science and Engineering, Nanyang Technological University.
 Email: anran.li@ntu.edu.sg
 
 News
-======
+------
 1. I have joined Nanyang Technological University, Singapore as a Research Fellow since Dec 2021
 2. Our paper "**Privacy-preserving Efficient Federated-Learning Model Debugging**" has beed accepted to IEEE Transaction on Parallel and Distributed Systems (IEEE TPDS 2021), CCF A
 3. Our paper "**Efficient Participant Contribution Evaluation for Horizontal and Vertical Federated Learning**" has beed accepted to IEEE International Conference on Data Engineering (IEEE ICDE 2021), CCF A
 
 Publications
-======
+------
 1. **Privacy-preserving Efficient Federated-Learning Model Debugging**, **Anran Li**, Lan Zhang, Junhao Wang, Feng Han, Xiang-Yang Li. IEEE Transactions on Parallel and Distributed System (TPDS), CCF A.
 2. **Sample-level Data Selection for Federated Learning**, **Anran Li**, Lan Zhang, Juntao Tan, Yaxuan Qin, Junhao Wang, Xiang-Yang Li. IEEE INFOCOM 2021, CCF A.
 3. **Efficient Federated-Learning Model Debugging**, **Anran Li**, Lan Zhang, Junhao Wang, Juntao Tan, Feng Han, Yaxuan Qin, Nikolaos M. Freris, Xiang-Yang Li. IEEE ICDE 2021, CCF A.
