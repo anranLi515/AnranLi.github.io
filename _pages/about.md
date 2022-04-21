@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Research Fellow"
-excerpt: "Research Fellow"
+title: "Anran Li, Research Fellow, Nanyang Technological University"
+excerpt: "Anran Li, Research Fellow, Nanyang Technological University"
 author_profile: true
 redirect_from: 
   - /about/
