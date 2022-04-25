@@ -12,7 +12,7 @@ School of Computer Science and Engineering.
 Nanyang Technological University, Singapore
 
 I conducted Post-Doctoral in University of Science and Technology of China from June 2021 to Dec 2021.
-I received both my Ph.D degree and master from the School of Computer Science and Technology, University of Science and Technology of China, under the supervision of Prof. Xiang-yang Li and Prof. Lan Zhang. 
+I received both my Ph.D degree from the School of Computer Science and Technology, University of Science and Technology of China, under the supervision of Prof. Xiang-yang Li and Prof. Lan Zhang. 
 I received my Bachelor degree from Anhui University of Science and Technology, China. 
 
 My current research interests are task-oriented data quality assessment for large-scale datasets, federated learning and mobile computing. 
@@ -32,7 +32,7 @@ News
 2. Our paper "**Privacy-preserving Efficient Federated-Learning Model Debugging**" has beed accepted to IEEE Transaction on Parallel and Distributed Systems (IEEE TPDS 2021), CCF A
 3. Our paper "**Efficient Participant Contribution Evaluation for Horizontal and Vertical Federated Learning**" has beed accepted to IEEE International Conference on Data Engineering (IEEE ICDE 2021), CCF A
 
-Publications
+Selected Publications
 ------
 1. **Privacy-preserving Efficient Federated-Learning Model Debugging**, **Anran Li**, Lan Zhang, Junhao Wang, Feng Han, Xiang-Yang Li. IEEE Transactions on Parallel and Distributed System (TPDS), CCF A.
 2. **Sample-level Data Selection for Federated Learning**, **Anran Li**, Lan Zhang, Juntao Tan, Yaxuan Qin, Junhao Wang, Xiang-Yang Li. IEEE INFOCOM 2021, CCF A.
