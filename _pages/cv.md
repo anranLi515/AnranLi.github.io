@@ -10,9 +10,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Anhui University of Science and Technology, 2016
-* M.S. in Information Security, University of Science and Technology of China, 2018
 * Ph.D in Computer Science, University of Science and Technology of China, 2021
+* B.S. in Anhui University of Science and Technology, 2016
+
 
 Work experience
 ======
@@ -47,17 +47,7 @@ Publications
 12.	Lan Chen, Linlin Chen, **Anran Li**, Xiaoyu Wang. [FATE: Fingerprints Automatically Targeting and Extracting for image source identiﬁcation](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=9160466). BigCom2020.
 13.	Lan Chen, **Anran Li**, Lei Yu, [Forensic Technology for Source Camera Identification](https://link.springer.com/chapter/10.1007/978-981-15-8101-4_42). International Conference on Artificial Intelligence and Security 2020, pp 466-477.
 
-
-  
-Talks
-======
-  Presentation of the artical 'Efficient Federated-Learning Model Debugging' in the school of computer science in University of Science and Technology of China, 2021.
-  
-Teaching
-======
-  
-  
-Service and leadership
+Service and Activities
 ======
 * **Reviewers**
   * Review manuscripts from FL-AAAI-22 as the PC member
@@ -74,6 +64,30 @@ Service and leadership
   * ACM Turing Celebration Conference - China 2019 (Chengdu, China)
   * ACM Turing Celebration Conference - China 2017 (Shanghai, China)
   * The annual meeting of Microsoft Research Asia China 2017 (Beijing, China)
+
+Scholarship and Awards
+======
+* The President of the Chinese Academy of Science praises 2021.
+* Outstanding Doctoral Dissertation Award of University of Science and Technology of China 2021.
+* ACM China, Outstanding Doctoral Dissertation Award of Hefei Branch, 2021.
+* National Scholarship, USTC, Sept’2020.
+* IEEE International Conference on Mobile Ad-hoc and Sensor Network (MSN) 2019 Best Paper Award.
+* Academic Scholarship, USTC, Sept’2016, Sept’2017, Sept’2018, Sept’2019.
+* Excellent Student Scholarship of Anhui University of Science and Technology, Sept’2015.
+* National Encouragement Scholarship, Anhui University of Science and Technology, 2012, 2013, 2014.
+
+Patents
+======
+* Anran Li, Xiang-Yang Li, Lan Zhang, Yunting Xie. Data quality evaluation method and system, patent No. 202010472680.2
+* Lan Zhang, Xiang-Yang Li, Anran Li. An efficient method for identifying erroneous samples in federated learning scenarios, patent No. 202010961288.4.
+* Lan Zhang, Xiang-Yang Li, Anran Li. A method of sample-level data selection for federated learning, patent No.202011464915.X
+* Xiang-Yang Li, Shuangshuang Xue, Lan Zhang, Anran Li. A method of feature extraction for mobile applications, patent No. 201910103820.6.
+  
+Talks
+======
+* Presentation of the paper 'Efficient Federated-Learning Model Debugging' in the conference ICDE 2021.
+* Presentation of the paper 'Sample-level Data Selection for Federated Learning' in the conference infocom 2021.
+  
 
 Hobbies
 ======
