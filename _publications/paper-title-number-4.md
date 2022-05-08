@@ -1,15 +1,15 @@
 ---
-title: "Privacy-preserving Efficient Federated-Learning Model Debugging"
+title: "AppDNA: Profiling App Behavior via Deep-Learning on Function Call Graphs"
 collection: publications
-permalink: /publications/2009-10-01-test-accts-intro
-excerpt: 'Ientifying erroneous training data in federated learning scenarios in a privacy preserving way.'
-date: 2021-12-01
-venue: 'IEEE Transactions on Parallel and Distributed System'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Anran Li, Lan Zhang, Junhao Wang, Feng Han, Xiang-Yang Li. Privacy-preserving Efficient Federated-Learning Model Debugging, IEEE Transactions on Parallel and Distributed System (TPDS)'
+permalink: /publications/IEEE Transactions on Emerging Topics in Computing (IEEE TETC)
+excerpt: 'Malicious application detection'
+date: 2020-10-01
+venue: 'IEEE Transactions on Emerging Topics in Computing'
+paperurl: 'https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=9205639'
+citation: 'Anran Li, Shuangshuang Xue, Lan Zhang, Xiang-Yang Li, Lan Zhang, Jianwei Qian. AppDNA: Profiling App Behavior via Deep-Learning on Function Call Graphs, IEEE Transactions on Emerging Topics in Computing (IEEE TETC), JCR-I'
 ---
-This paper is about identifying erroneous training data in federated learning scenarios.
+This paper is about identifying malicious applications.
 
-[Download paper here](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=9661312)
+[Download paper here](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=9205639)
 
-Recommended citation: Anran Li, Lan Zhang, Junhao Wang, Feng Han, Xiang-Yang Li. Privacy-preserving Efficient Federated-Learning Model Debugging, IEEE Transactions on Parallel and Distributed System (TPDS 2021).
+Recommended citation: Anran Li, Shuangshuang Xue, Lan Zhang, Xiang-Yang Li, Lan Zhang, Jianwei Qian. AppDNA: Profiling App Behavior via Deep-Learning on Function Call Graphs, IEEE Transactions on Emerging Topics in Computing (IEEE TETC).
