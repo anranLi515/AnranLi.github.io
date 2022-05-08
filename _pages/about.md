@@ -11,20 +11,11 @@ redirect_from:
 School of Computer Science and Engineering.  
 Nanyang Technological University, Singapore
 
-I conducted Post-Doctoral in University of Science and Technology of China from June 2021 to Dec 2021.
-I received both my Ph.D degree from the School of Computer Science and Technology, University of Science and Technology of China, under the supervision of Prof. Xiang-yang Li and Prof. Lan Zhang. 
+I received my Ph.D degree from the School of Computer Science and Technology, University of Science and Technology of China, under the supervision of Prof. Xiang-yang Li and Prof. Lan Zhang. 
 I received my Bachelor degree from Anhui University of Science and Technology, China. 
 
 My current research interests are task-oriented data quality assessment for large-scale datasets, federated learning and mobile computing. 
 
-
-Address
-------
-
-Cyber security lab, B2, Block N4.  
-School of Computer Science and Engineering, Nanyang Technological University.  
-50 Nanyang Avenue, Singapore 639798.  
-Email: anran.li@ntu.edu.sg
 
 News
 ------
@@ -46,53 +37,8 @@ Selected Publications
 10.	**IEye: Personalized Image Privacy Detection**, Rui Jiao, Lan Zhang, **Anran Li**. BigCom2020.
 11.	**FATE: Fingerprints Automatically Targeting and Extracting for image source identiﬁcation**, Lan Chen, Linlin Chen, **Anran Li**, Xiaoyu Wang. BigCom2020.
 12.	**Forensic Technology for Source Camera Identification**, Lan Chen, Anran Li, Lei Yu. International Conference on Artificial Intelligence and Security 2020, pp466-477.
-13.	**The Realization of Bubble Sort Visible Teaching**, **Anran Li**, Huan Fang, Lili Wang, Xiaokui Chen. . Computer Knowledge and Technology 2015.
 
 
-Patents
-------
-1. **Anran Li**, Xiang-Yang Li, Lan Zhang, Yunting Xie. Data quality evaluation method and system, patent No. 202010472680.2
-2. Lan Zhang, Xiang-Yang Li, **Anran Li**. An efficient method for identifying erroneous samples in federated learning scenarios, patent No. 202010961288.4.
-3. Lan Zhang, Xiang-Yang Li, **Anran Li**. A method of sample-level data selection for federated learning, patent No.202011464915.X
-4. Xiang-Yang Li, Shuangshuang Xue, Lan Zhang, **Anran Li**. A method of feature extraction for mobile applications, patent No. 201910103820.6.
-
-
-Scholarship and Awards
-------
-1. The President of the Chinese Academy of Science praises 2021.
-2. Outstanding Doctoral Dissertation Award of University of Science and Technology of China 2021.
-3. ACM China, Outstanding Doctoral Dissertation Award of Hefei Branch, 2021.
-4. National Scholarship, USTC, Sept’2020. 
-5. IEEE International Conference on Mobile Ad-hoc and Sensor Network (MSN) 2019 Best Paper Award.
-6. Academic Scholarship, USTC, Sept’2016, Sept’2017, Sept’2018, Sept’2019.
-7. Excellent Student Scholarship of Anhui University of Science and Technology, Sept’2015. 
-8. National Encouragement Scholarship, Anhui University of Science and Technology, 2012, 2013, 2014.
-
-
-Professional Activities
-------
-**Reviewer**
-1. Reviewed manuscripts from FL-AAAI-22 as the PC member
-2. Reviewed manuscripts from IEEE Transactions on Cloud Computing 2021 (TCC2021)
-3. Reviewed manuscripts from IEEE Transactions on Dependable and Secure Computing 2021 (TDSC 2021)
-4. Served as a member of the FL-ICML2021 workshop program committee
-5. Reviewed manuscripts from the Frontiers 2021
-6. Reviewed manuscripts from the International Conference on Big Data Computing and Communications 2018 
-
-**Academic Services**
-1. Volunteered in 12th International Conference on Mobile Ad-hoc and Sensor Networks 2016 (Hefei, China)
-
-**Attended Conferences**
-1. 37th IEEE International Conference on Data Engineering, 19-22 April 2021, Chania, Crete, Greece 
-2. IEEE International Conference on Computer Communications, 10-13 May 2021, Virtual Conference
-3. ACM Turing Celebration Conference - China 2021, Hefei, China
-4. ACM Turing Celebration Conference - China 2019, Chengdu, China
-5. ACM Turing Celebration Conference - China 2017, Shanghai, China
-6. The annual meeting of Microsoft Research Asia China 2017, Beijing, China
-
-Hobbies
-------
-Badminton, Table tennis, Singing, Traveling.
 
 
 
