@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently the Research Fellow at Nanyang Technological University with Prof. Yang Liu. I received my Ph.D degree from the School of Computer Science and Technology, University of Science and Technology of China, under the supervision of Prof. Xiang-yang Li and Prof. Lan Zhang. 
+I am currently the Research Fellow at Nanyang Technological University with Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/). I received my Ph.D degree from the School of Computer Science and Technology, University of Science and Technology of China, under the supervision of Prof. [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/index.html) and Prof. [Lan Zhang](https://cs.ustc.edu.cn/2020/0706/c23236a460088/pagem.htm). 
 
 My research interests focus on task-oriented data quality assessment for large-scale datasets, federated learning and mobile computing. 
 
