@@ -10,6 +10,5 @@ citation: 'Anran Li, Lan Zhang, Junhao Wang, Feng Han, Xiang-Yang Li. Privacy-pr
 ---
 This paper is about identifying erroneous training data in federated learning scenarios.
 
-[Download paper here](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=9661312)
 
 Recommended citation: Anran Li, Lan Zhang, Junhao Wang, Feng Han, Xiang-Yang Li. Privacy-preserving Efficient Federated-Learning Model Debugging, IEEE Transactions on Parallel and Distributed System (TPDS 2021).
