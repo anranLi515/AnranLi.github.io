@@ -14,13 +14,13 @@ My research interests focus on task-oriented data quality assessment for large-s
 
 News
 ------
-1. Our paper "**FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning**" has been accepted to IEEE INFOCOM 2022, CCF A.
+1. Our paper "**FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning**" has been accepted to IEEE INFOCOM 2023, CCF A.
 2. Our paper "**Subnetwork-Lossless Robust Watermarking for Hostile Theft Attacks in Deep Transfer Learning Models**" has been accepted to IEEE Transaction on Dependable and Secure Computing (TDSC 2022), CCF A.
 3. Our paper "**A Unified Guaranteed Impression Allocation Framework for Online Display Advertising**" has been accepted to IEEE International Conference on Data Engineering (ICDM 2022), CCF B.
 
 Selected Publications
 ------
-1. **FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning**, **Anran Li**, Hongyi Peng, Jiahui Huang, Lan Zhang, Qing Guo, Yang Liu, Han Yu, IEEE INFOCOM 2022, CCF A.
+1. **FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning**, **Anran Li**, Hongyi Peng, Jiahui Huang, Lan Zhang, Qing Guo, Yang Liu, Han Yu, IEEE INFOCOM 2023, CCF A.
 2. **Subnetwork-Lossless Robust Watermarking for Hostile Theft Attacks in Deep Transfer Learning Models**, Ju Jia, Yueming Wu, **Anran Li**, Yang Liu, IEEE Transaction on Dependable and Secure Computing (TDSC 2022), CCF A.
 3. **A Unified Guaranteed Impression Allocation Framework for Online Display Advertising**, Hong Zhang, Lan Zhang, Ju Huang, **Anran Li**, Haoran Cheng, Dongbo Huang, and Lan Xu, IEEE International Conference on Data Engineering (ICDM 2022), CCF B.
 4. **Efficient Participant Contribution Evaluation for Horizontal and Vertical Federated Learning**, Junhao Wang, Lan Zhang, **Anran Li**, Xuanke You, Haoran Cheng. IEEE ICDE 2022, CCF A. 
