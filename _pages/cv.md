@@ -7,13 +7,6 @@ redirect_from:
   - /resume
 ---
 
-
-Education
-======
-* Ph.D in Computer Science, University of Science and Technology of China, 2021
-* B.S. in Anhui University of Science and Technology, 2016
-
-
 Work experience
 ======
 * June 2021-Dec 2021: Postdoc 
