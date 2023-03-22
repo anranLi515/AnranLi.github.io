@@ -18,11 +18,6 @@ Work experience
   * Nanyang Technological University
   * Duties included: Task-oriented Data Quality Assessment, Federated Learning
   * Supervisor: Professor Yang Liu
-  
-Skills
-======
-* Software Programming: Python, Matlab, Java, C
-* English: Fluent, CET-6: 536 
 
 Publications
 ======
