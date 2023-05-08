@@ -21,7 +21,7 @@ News
 
 Selected Publications
 ------
-1. **Fairness via Group Contribution Matching**, Tianlin Li, Zhiming Li, Anran Li, Mengnan Du, Aishan Liu, Qing Guo, Guozhu Meng, Yang Liu, IJCAI 2023, CCF A.
+1. **Fairness via Group Contribution Matching**, Tianlin Li, Zhiming Li, **Anran Li**, Mengnan Du, Aishan Liu, Qing Guo, Guozhu Meng, Yang Liu, IJCAI 2023, CCF A.
 2. **GFL: Federated Learning on Non-IID data via Privacy-preserving Synthetic data**, Yihang Cheng, Lan Zhang, **Anran Li**, PerCom 2023, CCF B.
 3. **Learning Program Representations with a Tree-Structured Transformer**, Wenhan Wang, Kechi Zhang, Ge Li, Shangqing Liu, **Anran Li**, Zhi Jin, Liu Yang, SANER 2023, CCF B.
 4. **FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning**, **Anran Li**, Hongyi Peng, Jiahui Huang, Lan Zhang, Qing Guo, Yang Liu, Han Yu, IEEE INFOCOM 2023, CCF A.
