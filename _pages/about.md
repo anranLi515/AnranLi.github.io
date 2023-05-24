@@ -14,7 +14,7 @@ My research interests focus on task-oriented data quality assessment for large-s
 
 News
 ------
-1. Our paper **FedCSS: Joint Client-and-Sample Selection for Hard Sample-Aware Noise-Robust Federated Learning** has been accepted to ACM SIGMOD 2023, CCF A.
+1. Our paper **FedCSS: Joint Client-and-Sample Selection for Hard Sample-Aware Noise-Robust Federated Learning** has been accepted to ACM SIGMOD 2024, CCF A.
 2. Our paper "**Fairness via Group Contribution Matching**" has been accepted to IJCAI 2023, CCF A.
 3. Our paper "**GFL: Federated Learning on Non-IID data via Privacy-preserving Synthetic data**" has been accepted to PerCom 2023, CCF B.
 4. Our paper "**Learning Program Representations with a Tree-Structured Transformer**" has been accepted to SANER 2023, CCF B.
