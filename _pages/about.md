@@ -23,7 +23,7 @@ News
 Selected Publications ($^*$ Corresponding Author)
 ------
 1. **Anran Li**, Yue Cao, Jiabao Guo, Hongyi Peng, Qing Guo, Han Yu, FedCSS: Joint Client-and-Sample Selection for Hard Sample-Aware Noise-Robust Federated Learning, ACM **SIGMOD 2024**.
-2. **Anran Li**, Hongyi Peng, Jiahui Huang, Lan Zhang, Qing Guo, Yang Liu, Han Yu, FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning,  IEEE **INFOCOM 2023**.
+2. **Anran Li**, Hongyi Peng, Jiahui Huang, Lan Zhang, Qing Guo, Han Yu, Yang Liu, FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning,  IEEE **INFOCOM 2023**.
 3. **Anran Li**, Lan Zhang, Juntao Tan, Yaxuan Qin, Junhao Wang, Xiang-Yang Li, Sample-level Data Selection for Federated Learning, IEEE **INFOCOM 2021**.
 4. **Anran Li**, Lan Zhang, Junhao Wang, Juntao Tan, Feng Han, Yaxuan Qin, Nikolaos M. Freris, Xiang-Yang Li, Efficient Federated-Learning Model Debugging, IEEE **ICDE 2021**.
 5. **Anran Li**, Lan Zhang, Junhao Wang, Feng Han, Xiang-Yang Li, Privacy-preserving Efficient Federated-Learning Model Debugging, IEEE Transactions on Parallel and Distributed System (**TPDS 2021**).
