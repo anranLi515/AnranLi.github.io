@@ -14,9 +14,9 @@ My research interests focus on task-oriented data quality assessment for large-s
 
 News
 ------
-1. Our paper "Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning" has been submitted to ACM SIGMOD 4th round.
-2. Two papers have been submitted to IEEE Transactions on Mobile Computing.
-3. Our paper "Towards Interpretable Federated Learning" has been submitted to AAAI 2024. 
+1. Our paper "Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning" has been submitted to **ACM SIGMOD** 4th round.
+2. Two papers have been submitted to **IEEE Transactions on Mobile Computing**.
+3. Our paper "Towards Interpretable Federated Learning" has been submitted to **AAAI 2024**. 
 4. Our paper "FedCSS: Joint Client-and-Sample Selection for Hard Sample-Aware Noise-Robust Federated Learning" has been accepted by **ACM SIGMOD 2024**. 
 5. Our paper "Fairness via Group Contribution Matching" has been accepted by **IJCAI 2023**.
 6. Our paper "GFL: Federated Learning on Non-IID data via Privacy-preserving Synthetic data" has been accepted by **PerCom 2023**.
