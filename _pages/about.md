@@ -23,7 +23,7 @@ Recent News
 7. [2023.04.20]. Our paper "Fairness via Group Contribution Matching" has been accepted by **IJCAI 2023**.
 8. [2022.12.22]. Our paper "GFL: Federated Learning on Non-IID data via Privacy-preserving Synthetic data" has been accepted by **PerCom 2023**.
 9. [2022.12.16]. Our paper "Learning Program Representations with a Tree-Structured Transformer" has been accepted by **SANER 2023**.
-10. [2022.12.02]. Our paper "FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning" has been accepted by IEEE **INFOCOM 2023**. 
+10. [2022.12.02]. Our paper "FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning" has been accepted by **IEEE INFOCOM 2023**. 
 
 Selected Publications ($^*$ Corresponding Author)
 ------
