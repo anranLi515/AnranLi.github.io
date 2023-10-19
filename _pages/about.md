@@ -32,7 +32,7 @@ Selected Publications ($^*$ Corresponding Author)
 3. **Anran Li**, Lan Zhang, Juntao Tan, Yaxuan Qin, Junhao Wang, Xiang-Yang Li, Sample-level Data Selection for Federated Learning, **IEEE INFOCOM 2021**.
 4. **Anran Li**, Lan Zhang, Junhao Wang, Juntao Tan, Feng Han, Yaxuan Qin, Nikolaos M. Freris, Xiang-Yang Li, Efficient Federated-Learning Model Debugging, **IEEE ICDE 2021**.
 5. **Anran Li**, Lan Zhang, Junhao Wang, Feng Han, Xiang-Yang Li, Privacy-preserving Efficient Federated-Learning Model Debugging, IEEE Transactions on Parallel and Distributed System (**IEEE TPDS 2021**).
-6. **Anran Li**, Lan Zhang, Jianwei Qian, Xiang-Yang Li, Xiang Xiao, **TODQA: Efficient Task-Oriented Data Quality Assessment**, **IEEE MSN 2019**, **Best Paper Award**.
+6. **Anran Li**, Lan Zhang, Jianwei Qian, Xiang-Yang Li, Xiang Xiao, TODQA: Efficient Task-Oriented Data Quality Assessment, **IEEE MSN 2019**, **Best Paper Award**.
 7. **Anran Li**, Shuangshuang Xue, Xiang-Yang Li, Lan Zhang, Jianwei Qian, AppDNA: Profiling App Behavior via Deep-Learning on Function Call Graphs, IEEE Transactions on Emerging Topics in Computing (**IEEE TETC 2020**).
 8. Tianlin Li, Zhiming Li, **Anran Li**$^*$, Mengnan Du, Aishan Liu, Qing Guo, Guozhu Meng, Yang Liu, Fairness via Group Contribution Matching,  **IJCAI 2023**.
 9. Guangjing Wang, Hanqing Guo, **Anran Li**, Xiaorui Liu, Qiben Yan, Federated IoT Interaction Vulnerability Analysis, IEEE **ICDE 2023**.
