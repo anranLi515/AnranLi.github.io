@@ -12,7 +12,7 @@ I am currently a Research Fellow at Nanyang Technological University with Prof. 
 My research interests focus on task-oriented data quality assessment for large-scale datasets, federated learning and mobile computing. 
 
 
-News
+Recent News
 ------
 1. [2023.10.16]. Our paper "Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning" has been submitted to **ACM SIGMOD** 4th round.
 2. [2023.09.13] Dr. Anran Li served as a Program Committee (PC) member for **FL@FM-NeurIPS 2023**. 
