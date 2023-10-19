@@ -18,7 +18,7 @@ Recent News
 2. [2023.09.13] Dr. Anran Li served as a Program Committee (PC) member for **FL@FM-NeurIPS 2023**. 
 3. [2023.08.15]. Our paper "Towards Interpretable Federated Learning" has been submitted to **AAAI 2024**.
 4. [2023.08.10]. Dr. Anran Li served as a Program Committee (PC) member for **AAAI 2024**.
-5. [2023.08.06]. Two papers have been submitted to **IEEE Transactions on Mobile Computing**.
+5. [2023.08.06]. Two papers have been submitted to IEEE Transactions on Mobile Computing (**IEEE TMC 2023**).
 6. [2023.05.23]. Our paper "FedCSS: Joint Client-and-Sample Selection for Hard Sample-Aware Noise-Robust Federated Learning" has been accepted by **ACM SIGMOD 2024**.
 7. [2023.04.20]. Our paper "Fairness via Group Contribution Matching" has been accepted by **IJCAI 2023**.
 8. [2022.12.22]. Our paper "GFL: Federated Learning on Non-IID data via Privacy-preserving Synthetic data" has been accepted by **PerCom 2023**.
@@ -41,7 +41,7 @@ Selected Publications ($^*$ Corresponding Author)
 12. Shuangshuang Xue, Lan Zhang, **Anran Li**, Xiang-Yang Li, Chaoyi Ruan, Wenchao Huang, AppDNA: App Behavior Profiling via Graph-based Deep Learning, **IEEE INFOCOM 2018**.
 13. Wenhan Wang, Kechi Zhang, Ge Li, Shangqing Liu, **Anran Li**, Zhi Jin, Liu Yang, Learning Program Representations with a Tree-Structured Transformer, **SANER 2023**.
 14. Yihang Cheng, Lan Zhang, **Anran Li**, GFL: Federated Learning on Non-IID data via Privacy-preserving Synthetic data, **IEEE PerCom 2023**.
-15. Hong Zhang, Lan Zhang, Ju Huang, **Anran Li**, Haoran Cheng, Dongbo Huang, and Lan Xu, A Unified Guaranteed Impression Allocation Framework for Online Display Advertising, IEEE International Conference on Data Engineering (**IEEE ICDM** 2022).
+15. Hong Zhang, Lan Zhang, Ju Huang, **Anran Li**, Haoran Cheng, Dongbo Huang, and Lan Xu, A Unified Guaranteed Impression Allocation Framework for Online Display Advertising, IEEE International Conference on Data Engineering (**IEEE ICDM 2022**).
 16. Jiahui Huang, Lan Zhang, **Anran Li**, Haoran Cheng, Jiexin Xu, Hongmei Song, Adaptive and Efficient Participant Selection in Vertical Federated Learning, **IEEE MSN 2023**.
 17. Juntao Tan, Lan Zhang, Yang Liu, **Anran Li**, Ye Wu, Residue-based Label Protection Mechanisms in Vertical Logistic Regression,  **BigCom 2022**.
 18. Xiang-Yang Li, Lan Zhang, **Anran Li**, Data Sharing and Trading-Data Quality, Data Value and Data Price, **Communications of the China Computer Federation 2019**.
