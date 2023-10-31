@@ -62,17 +62,7 @@ Scholarship and Awards
 * ACM China, Outstanding Doctoral Dissertation Award of Hefei Branch, 2021.
 * National Scholarship, USTC, Sept’2020.
 * IEEE International Conference on Mobile Ad-hoc and Sensor Network (MSN) 2019 Best Paper Award.
-* Academic Scholarship, USTC, Sept’2016, Sept’2017, Sept’2018, Sept’2019.
-* Excellent Student Scholarship of Anhui University of Science and Technology, Sept’2015.
-* National Encouragement Scholarship, Anhui University of Science and Technology, 2012, 2013, 2014.
 
-Patents
-======
-* Anran Li, Xiang-Yang Li, Lan Zhang, Yunting Xie. Data quality evaluation method and system, patent No. 202010472680.2
-* Lan Zhang, Xiang-Yang Li, Anran Li. An efficient method for identifying erroneous samples in federated learning scenarios, patent No. 202010961288.4.
-* Lan Zhang, Xiang-Yang Li, Anran Li. A method of sample-level data selection for federated learning, patent No.202011464915.X
-* Xiang-Yang Li, Shuangshuang Xue, Lan Zhang, Anran Li. A method of feature extraction for mobile applications, patent No. 201910103820.6.
-  
 Talks
 ======
 * Presentation of the paper 'Efficient Federated-Learning Model Debugging' in the conference ICDE 2021.
