@@ -17,14 +17,13 @@ Recent News
 1. [2023.10.16]. Our paper "Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning" has been submitted to **ACM SIGMOD** 4th round.
 2. [2023.10.02]. Our paper "Adaptive and Efficient Participant Selection in Vertical Federated Learning" has been accepted by **IEEE MSN 2023**. 
 3. [2023.09.13] Dr. Anran Li served as a Program Committee (PC) member for **FL@FM-NeurIPS 2023**. 
-4. [2023.08.15]. Our paper "Towards Interpretable Federated Learning" has been submitted to **AAAI 2024**.
-5. [2023.08.10]. Dr. Anran Li served as a Program Committee (PC) member for **AAAI 2024**.
-6. [2023.08.06]. Two papers have been submitted to IEEE Transactions on Mobile Computing (**IEEE TMC 2023**).
-7. [2023.05.23]. Our paper "FedCSS: Joint Client-and-Sample Selection for Hard Sample-Aware Noise-Robust Federated Learning" has been accepted by **ACM SIGMOD 2024**. 
-8. [2023.04.20]. Our paper "Fairness via Group Contribution Matching" has been accepted by **IJCAI 2023**.
-9. [2022.12.22]. Our paper "GFL: Federated Learning on Non-IID data via Privacy-preserving Synthetic data" has been accepted by **PerCom 2023**.
-10. [2022.12.16]. Our paper "Learning Program Representations with a Tree-Structured Transformer" has been accepted by **SANER 2023**.
-11. [2022.12.02]. Our paper "FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning" has been accepted by **IEEE INFOCOM 2023**. 
+4. [2023.08.10]. Dr. Anran Li served as a Program Committee (PC) member for **AAAI 2024**.
+5. [2023.08.06]. Two papers have been submitted to IEEE Transactions on Mobile Computing (**IEEE TMC 2023**).
+6. [2023.05.23]. Our paper "FedCSS: Joint Client-and-Sample Selection for Hard Sample-Aware Noise-Robust Federated Learning" has been accepted by **ACM SIGMOD 2024**. 
+7. [2023.04.20]. Our paper "Fairness via Group Contribution Matching" has been accepted by **IJCAI 2023**.
+8. [2022.12.22]. Our paper "GFL: Federated Learning on Non-IID data via Privacy-preserving Synthetic data" has been accepted by **PerCom 2023**.
+9. [2022.12.16]. Our paper "Learning Program Representations with a Tree-Structured Transformer" has been accepted by **SANER 2023**.
+10. [2022.12.02]. Our paper "FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning" has been accepted by **IEEE INFOCOM 2023**. 
 
 Selected Publications ($^*$ Corresponding Author)
 ------
