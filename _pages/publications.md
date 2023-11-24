@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Publications
+
 Name marked with * implies that I am the corresponding author.
 
 1. **Anran Li**, Jiahui Huang, Ju Jia, Hongyi Peng, Lan Zhang, Luu Anh Tuan, Han Yu, Xiangyang Li, Efficient and Privacy-Preserving Feature Importance-based Vertical Federated Learning, **IEEE TMC 2023**.
