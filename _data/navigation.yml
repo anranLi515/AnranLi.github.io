@@ -3,9 +3,6 @@ main:
     
   - title: "Publications"
     url: /publications/
-
-  - title: "Services"
-    url: /Services/
     
   - title: "CV"
     url: /cv/
