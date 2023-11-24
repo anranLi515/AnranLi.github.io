@@ -51,7 +51,11 @@ Selected Publications ($^*$ Corresponding Author)
 20. Rui Jiao, Lan Zhang, **Anran Li**, IEye: Personalized Image Privacy Detection, **BigCom 2020**.
 21. Lan Chen, Linlin Chen, **Anran Li**, Xiaoyu Wang, FATE: Fingerprints Automatically Targeting and Extracting for image source identiﬁcation, **BigCom 2020**.
 
+## Contact
 
+**Address: Nanyang Technological University 50 Nanyang Avenue, Singapore 639798**
+
+**Email: anran.li@ntu.edu.sg** 
 
 
 
