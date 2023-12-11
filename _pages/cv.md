@@ -11,8 +11,8 @@ Work experience
 ======
 * June 2021-Dec 2021: Postdoc 
   * University of Science and Technology of China
-  * Duties included: Data Quality Assessment, Federated Learning
-  * Supervisor: Professor Xiang-Yang Li
+  * Duties included: Data Quality Assessment, Federated Learning and Internship at Tencent, Shanghai
+  * Supervisor: Professor Xiang-Yang Li 
 
 * Dec 2021- Now: Research Fellow
   * Nanyang Technological University
