@@ -14,20 +14,21 @@ My research interests focus on task-oriented data quality assessment for large-s
 
 Recent News
 ------
-1. [2023.12.09] Our paper "FedMut: Generalized Federated Learning via Stochastic Mutation" has been accepted by **AAAI 2024**. 
-2. [2023.12.03] Our paper "FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation" has been accepted by **IEEE ICDE 2024**.
-3. [2023.11.08] Our paper "Efficient and Privacy-Preserving Feature Importance-based Vertical Federated Learning" has been accepted by **IEEE TMC 2023**. 
-4. [2023.10.16] Our paper "Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning" has been submitted to **ACM SIGMOD** 4th round.
-5. [2023.10.02] Our paper "Adaptive and Efficient Participant Selection in Vertical Federated Learning" has been accepted by **IEEE MSN 2023**.
-6. [2023.09.20] Dr. Anran Li served as a PC member for **AAMAS 2024**.
-7. [2023.09.13] Dr. Anran Li served as a PC member for **FL@FM-NeurIPS 2023**. 
-8. [2023.08.10] Dr. Anran Li served as a PC member for **AAAI 2024**.
-9. [2023.08.06] One paper has been submitted to IEEE Transactions on Mobile Computing (**IEEE TMC 2023**).
-10. [2023.05.23] Our paper "FedCSS: Joint Client-and-Sample Selection for Hard Sample-Aware Noise-Robust Federated Learning" has been accepted by **ACM SIGMOD 2024**. 
-11. [2023.04.20] Our paper "Fairness via Group Contribution Matching" has been accepted by **IJCAI 2023**.
-12. [2022.12.22] Our paper "GFL: Federated Learning on Non-IID data via Privacy-preserving Synthetic data" has been accepted by **PerCom 2023**.
-13. [2022.12.16] Our paper "Learning Program Representations with a Tree-Structured Transformer" has been accepted by **SANER 2023**.
-14. [2022.12.02] Our paper "FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning" has been accepted by **IEEE INFOCOM 2023**. 
+1. [2023.12.16] Our paper "An Empirical Study on Noisy Label Learning for Program Understanding" has been accepted by **ICSE 2024**.
+2. [2023.12.09] Our paper "FedMut: Generalized Federated Learning via Stochastic Mutation" has been accepted by **AAAI 2024**. 
+3. [2023.12.03] Our paper "FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation" has been accepted by **IEEE ICDE 2024**.
+4. [2023.11.08] Our paper "Efficient and Privacy-Preserving Feature Importance-based Vertical Federated Learning" has been accepted by **IEEE TMC 2023**. 
+5. [2023.10.16] Our paper "Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning" has been submitted to **ACM SIGMOD** 4th round.
+6. [2023.10.02] Our paper "Adaptive and Efficient Participant Selection in Vertical Federated Learning" has been accepted by **IEEE MSN 2023**.
+7. [2023.09.20] Dr. Anran Li served as a PC member for **AAMAS 2024**.
+8. [2023.09.13] Dr. Anran Li served as a PC member for **FL@FM-NeurIPS 2023**. 
+9. [2023.08.10] Dr. Anran Li served as a PC member for **AAAI 2024**.
+10. [2023.08.06] One paper has been submitted to IEEE Transactions on Mobile Computing (**IEEE TMC 2023**).
+11. [2023.05.23] Our paper "FedCSS: Joint Client-and-Sample Selection for Hard Sample-Aware Noise-Robust Federated Learning" has been accepted by **ACM SIGMOD 2024**. 
+12. [2023.04.20] Our paper "Fairness via Group Contribution Matching" has been accepted by **IJCAI 2023**.
+13. [2022.12.22] Our paper "GFL: Federated Learning on Non-IID data via Privacy-preserving Synthetic data" has been accepted by **PerCom 2023**.
+14. [2022.12.16] Our paper "Learning Program Representations with a Tree-Structured Transformer" has been accepted by **SANER 2023**.
+15. [2022.12.02] Our paper "FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning" has been accepted by **IEEE INFOCOM 2023**. 
 
 Selected Publications ($^*$ Corresponding Author)
 ------
@@ -41,16 +42,17 @@ Selected Publications ($^*$ Corresponding Author)
 8. **Anran Li**, Lan Zhang, Jianwei Qian, Xiang Xiao, Xiang-Yang Li, Yunting Xie. TODQA: Efficient Task-Oriented Data Quality Assessment, **IEEE MSN 2019**, **Best Paper Award**.
 9. Ming Hu, Yue Cao, **Anran Li**$^*$, Ming Zhi, Chengwei Liu, Tianlin Li, Mingsong Chen, Yang Liu, FedMut: Generalized Federated Learning via Stochastic Mutation, **AAAI 2024**. 
 10. Tianlin Li, Zhiming Li, **Anran Li**$^*$, Mengnan Du, Aishan Liu, Qing Guo, Guozhu Meng, Yang Liu, Fairness via Group Contribution Matching,  **IJCAI 2023**.
-11. Ming Hu, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, Yihao Huang, **Anran Li**, Yang Liu, Xiang Lian, Mingsong Chen, FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation, **IEEE ICDE 2024**. 
-12. Guangjing Wang, Hanqing Guo, **Anran Li**, Xiaorui Liu, Qiben Yan, Federated IoT Interaction Vulnerability Analysis, **IEEE ICDE 2023**.
-13. Ju Jia, Yueming Wu, **Anran Li**, Yang Liu, Subnetwork-Lossless Robust Watermarking for Hostile Theft Attacks in Deep Transfer Learning Models, IEEE Transaction on Dependable and Secure Computing (**IEEE TDSC 2022**).
-14. Junhao Wang, Lan Zhang, **Anran Li**, Xuanke You, Haoran Cheng, Efficient Participant Contribution Evaluation for Horizontal and Vertical Federated Learning, **IEEE ICDE 2022**.
-15. Shuangshuang Xue, Lan Zhang, **Anran Li**, Xiang-Yang Li, Chaoyi Ruan, Wenchao Huang, AppDNA: App Behavior Profiling via Graph-based Deep Learning, **IEEE INFOCOM 2018**.
-16. Wenhan Wang, Kechi Zhang, Ge Li, Shangqing Liu, **Anran Li**, Zhi Jin, Liu Yang, Learning Program Representations with a Tree-Structured Transformer, **SANER 2023**.
-17. Yihang Cheng, Lan Zhang, **Anran Li**, GFL: Federated Learning on Non-IID data via Privacy-preserving Synthetic data, **IEEE PerCom 2023**.
-18. Hong Zhang, Lan Zhang, Ju Huang, **Anran Li**, Haoran Cheng, Dongbo Huang, and Lan Xu, A Unified Guaranteed Impression Allocation Framework for Online Display Advertising, IEEE International Conference on Data Engineering (**IEEE ICDM 2022**).
-19. Jiahui Huang, Lan Zhang, **Anran Li**, Haoran Cheng, Jiexin Xu, Hongmei Song, Adaptive and Efficient Participant Selection in Vertical Federated Learning, **IEEE MSN 2023**.
-20. Juntao Tan, Lan Zhang, Yang Liu, **Anran Li**, Ye Wu, Residue-based Label Protection Mechanisms in Vertical Logistic Regression,  **BigCom 2022**.
+11. Wenhan Wang, Yanzhou Li, **Anran Li**, Jian Zhang, Wei Ma, Yang Liu, An Empirical Study on Noisy Label Learning for Program
+  Understanding, **ICSE 2024**. 
+12. Ming Hu, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, Yihao Huang, **Anran Li**, Yang Liu, Xiang Lian, Mingsong Chen, FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation, **IEEE ICDE 2024**. 
+13. Guangjing Wang, Hanqing Guo, **Anran Li**, Xiaorui Liu, Qiben Yan, Federated IoT Interaction Vulnerability Analysis, **IEEE ICDE 2023**.
+14. Ju Jia, Yueming Wu, **Anran Li**, Yang Liu, Subnetwork-Lossless Robust Watermarking for Hostile Theft Attacks in Deep Transfer Learning Models, IEEE Transaction on Dependable and Secure Computing (**IEEE TDSC 2022**).
+15. Junhao Wang, Lan Zhang, **Anran Li**, Xuanke You, Haoran Cheng, Efficient Participant Contribution Evaluation for Horizontal and Vertical Federated Learning, **IEEE ICDE 2022**.
+16. Shuangshuang Xue, Lan Zhang, **Anran Li**, Xiang-Yang Li, Chaoyi Ruan, Wenchao Huang, AppDNA: App Behavior Profiling via Graph-based Deep Learning, **IEEE INFOCOM 2018**.
+17. Wenhan Wang, Kechi Zhang, Ge Li, Shangqing Liu, **Anran Li**, Zhi Jin, Liu Yang, Learning Program Representations with a Tree-Structured Transformer, **SANER 2023**.
+18. Yihang Cheng, Lan Zhang, **Anran Li**, GFL: Federated Learning on Non-IID data via Privacy-preserving Synthetic data, **IEEE PerCom 2023**.
+19. Hong Zhang, Lan Zhang, Ju Huang, **Anran Li**, Haoran Cheng, Dongbo Huang, and Lan Xu, A Unified Guaranteed Impression Allocation Framework for Online Display Advertising, IEEE International Conference on Data Engineering (**IEEE ICDM 2022**).
+20. Jiahui Huang, Lan Zhang, **Anran Li**, Haoran Cheng, Jiexin Xu, Hongmei Song, Adaptive and Efficient Participant Selection in Vertical Federated Learning, **IEEE MSN 2023**. 
 
 ## Contact
 
