@@ -43,7 +43,7 @@ Selected Publications ($^*$ Corresponding Author)
 9. Ming Hu, Yue Cao, **Anran Li**$^*$, Ming Zhi, Chengwei Liu, Tianlin Li, Mingsong Chen, Yang Liu, FedMut: Generalized Federated Learning via Stochastic Mutation, **AAAI 2024**. 
 10. Tianlin Li, Zhiming Li, **Anran Li**$^*$, Mengnan Du, Aishan Liu, Qing Guo, Guozhu Meng, Yang Liu, Fairness via Group Contribution Matching,  **IJCAI 2023**.
 11. Wenhan Wang, Yanzhou Li, **Anran Li**, Jian Zhang, Wei Ma, Yang Liu, An Empirical Study on Noisy Label Learning for Program
-  Understanding, **ICSE 2024**. 
+Understanding, **ICSE 2024**. 
 12. Ming Hu, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, Yihao Huang, **Anran Li**, Yang Liu, Xiang Lian, Mingsong Chen, FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation, **IEEE ICDE 2024**. 
 13. Guangjing Wang, Hanqing Guo, **Anran Li**, Xiaorui Liu, Qiben Yan, Federated IoT Interaction Vulnerability Analysis, **IEEE ICDE 2023**.
 14. Ju Jia, Yueming Wu, **Anran Li**, Yang Liu, Subnetwork-Lossless Robust Watermarking for Hostile Theft Attacks in Deep Transfer Learning Models, IEEE Transaction on Dependable and Secure Computing (**IEEE TDSC 2022**).
