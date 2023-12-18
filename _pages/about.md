@@ -52,7 +52,8 @@ Understanding, **ICSE 2024**.
 17. Wenhan Wang, Kechi Zhang, Ge Li, Shangqing Liu, **Anran Li**, Zhi Jin, Liu Yang, Learning Program Representations with a Tree-Structured Transformer, **SANER 2023**.
 18. Yihang Cheng, Lan Zhang, **Anran Li**, GFL: Federated Learning on Non-IID data via Privacy-preserving Synthetic data, **IEEE PerCom 2023**.
 19. Hong Zhang, Lan Zhang, Ju Huang, **Anran Li**, Haoran Cheng, Dongbo Huang, and Lan Xu, A Unified Guaranteed Impression Allocation Framework for Online Display Advertising, IEEE International Conference on Data Engineering (**IEEE ICDM 2022**).
-20. Jiahui Huang, Lan Zhang, **Anran Li**, Haoran Cheng, Jiexin Xu, Hongmei Song, Adaptive and Efficient Participant Selection in Vertical Federated Learning, **IEEE MSN 2023**. 
+20. Jiahui Huang, Lan Zhang, **Anran Li**, Haoran Cheng, Jiexin Xu, Hongmei Song, Adaptive and Efficient Participant Selection in Vertical Federated Learning, **IEEE MSN 2023**.
+21. Juntao Tan, Lan Zhang, Yang Liu, **Anran Li**, Ye Wu, Residue-based Label Protection Mechanisms in Vertical Logistic Regression,  **BigCom 2022**. 
 
 ## Contact
 
