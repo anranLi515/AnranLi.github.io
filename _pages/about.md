@@ -55,7 +55,11 @@ Understanding, **ICSE 2024**.
 19. Yihang Cheng, Lan Zhang, **Anran Li**, GFL: Federated Learning on Non-IID data via Privacy-preserving Synthetic data, **IEEE PerCom 2023**.
 20. Hong Zhang, Lan Zhang, Ju Huang, **Anran Li**, Haoran Cheng, Dongbo Huang, and Lan Xu, A Unified Guaranteed Impression Allocation Framework for Online Display Advertising, IEEE International Conference on Data Engineering (**IEEE ICDM 2022**).
 21. Jiahui Huang, Lan Zhang, **Anran Li**, Haoran Cheng, Jiexin Xu, Hongmei Song, Adaptive and Efficient Participant Selection in Vertical Federated Learning, **IEEE MSN 2023**.
-22. Juntao Tan, Lan Zhang, Yang Liu, **Anran Li**, Ye Wu, Residue-based Label Protection Mechanisms in Vertical Logistic Regression,  **BigCom 2022**. 
+22. Juntao Tan, Lan Zhang, Yang Liu, **Anran Li**, Ye Wu, Residue-based Label Protection Mechanisms in Vertical Logistic Regression,  **BigCom 2022**.
+23. Lan Chen, Linlin Chen, **Anran Li**, Xiaoyu Wang, FATE: Fingerprints Automatically Targeting and Extracting for image source identification, **BigCom 2020**.
+24. Rui Jiao, Lan Zhang, **Anran Li**, Ieye: Personalized image privacy detection, **BigCom 2020**.
+25. Lan Chen, **Anran Li**, Lei Yu, Forensic technology for source camera identification, Artificial Intelligence and Security: 6th International Conference, **ICAIS 2020**.
+26. 李向阳，张兰，**李安然**，数据共享和交易：数据的质量、价值和价格，**中国计算机学会通讯2019**. 
 
 ## Contact
 
