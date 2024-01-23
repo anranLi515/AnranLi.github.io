@@ -14,7 +14,7 @@ My research interests focus on task-oriented data quality assessment for large-s
 
 Recent News
 ------
-1. [2024.01.23] Our paper "Federated Graph Neural Networks: Overview, Techniques and Challenges" has been accepted by **TNNLS 2024**.
+1. [2024.01.23] Our paper "Federated Graph Neural Networks: Overview, Techniques and Challenges" has been accepted by **IEEE TNNLS 2024**.
 2. [2024.01.17] Dr. Anran Li served as a PC member of **IJCAI 2024**.
 3. [2024.01.04] Our paper "Aggregating Intrinsic Information to Enhance BCI Performance through Federated Learning" has been accepted by **Neural Networks 2024**. 
 4. [2023.12.16] Our paper "An Empirical Study on Noisy Label Learning for Program Understanding" has been accepted by **ICSE 2024**.
