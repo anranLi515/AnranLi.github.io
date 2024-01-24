@@ -20,7 +20,7 @@ Understanding, **ICSE 2024**.
 10. Ming Hu, Yue Cao, **Anran Li**$^*$, Ming Zhi, Chengwei Liu, Tianlin Li, Mingsong Chen, Yang Liu, FedMut: Generalized Federated Learning via Stochastic Mutation, **AAAI 2024**.
 11. Tianlin Li, Zhiming Li, **Anran Li**$^*$, Mengnan Du, Aishan Liu, Qing Guo, Guozhu Meng, Yang Liu, Fairness via Group Contribution Matching,  **IJCAI 2023**.
 12. Ming Hu, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, Yihao Huang, **Anran Li**, Yang Liu, Xiang Lian, Mingsong Chen, FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation, **IEEE ICDE 2024**.
-13. Guangjing Wang, Hanqing Guo, **Anran Li**, Xiaorui Liu, Qiben Yan, Federated IoT Interaction Vulnerability Analysis, IEEE **ICDE 2023**.
+13. Guangjing Wang, Hanqing Guo, **Anran Li**, Xiaorui Liu, Qiben Yan, Federated IoT Interaction Vulnerability Analysis, **IEEE ICDE 2023**.
 14. Ju Jia, Yueming Wu, **Anran Li**, Yang Liu, Subnetwork-Lossless Robust Watermarking for Hostile Theft Attacks in Deep Transfer Learning Models, IEEE Transaction on Dependable and Secure Computing (**IEEE TDSC 2022**).
 15. Junhao Wang, Lan Zhang, **Anran Li**, Xuanke You, Haoran Cheng, Efficient Participant Contribution Evaluation for Horizontal and Vertical Federated Learning, **IEEE ICDE 2022**.
 16. Shuangshuang Xue, Lan Zhang, **Anran Li**, Xiang-Yang Li, Chaoyi Ruan, Wenchao Huang, AppDNA: App Behavior Profiling via Graph-based Deep Learning, **IEEE INFOCOM 2018**.
