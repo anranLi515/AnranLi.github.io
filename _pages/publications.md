@@ -26,7 +26,7 @@ Understanding, **ICSE 2024**.
 16. Ju Jia, Yueming Wu, **Anran Li**, Yang Liu, Subnetwork-Lossless Robust Watermarking for Hostile Theft Attacks in Deep Transfer Learning Models, IEEE Transaction on Dependable and Secure Computing (**IEEE TDSC 2022**).
 17. Junhao Wang, Lan Zhang, **Anran Li**, Xuanke You, Haoran Cheng, Efficient Participant Contribution Evaluation for Horizontal and Vertical Federated Learning, **IEEE ICDE 2022**.
 18. Shuangshuang Xue, Lan Zhang, **Anran Li**, Xiang-Yang Li, Chaoyi Ruan, Wenchao Huang, AppDNA: App Behavior Profiling via Graph-based Deep Learning, **IEEE INFOCOM 2018**.
-19. Rui Liu, Pengwei Xing, Zichao Deng, **Anran Li**, Cuntai Guan, Han Yu, Federated Graph Neural Networks: Overview, Techniques and Challenges, **IEEE TNNLS 2024 (IF: 10.4)**.
+19. Rui Liu, Pengwei Xing, Zichao Deng, **Anran Li**, Cuntai Guan, Han Yu, Federated Graph Neural Networks: Overview, Techniques and Challenges, **IEEE TNNLS 2024**.
 20. Rui Liu, Yuanyuan Chen, **Anran Li**, Yi Ding, Han Yu, Cuntai Guan, Aggregating Intrinsic Information to Enhance BCI Performance through Federated Learning, **Neural Networks 2024**. 
 21. Wenhan Wang, Kechi Zhang, Ge Li, Shangqing Liu, **Anran Li**, Zhi Jin, Liu Yang, Learning Program Representations with a Tree-Structured Transformer, **SANER 2023**.
 22. Yihang Cheng, Lan Zhang, **Anran Li**, GFL: Federated Learning on Non-IID data via Privacy-preserving Synthetic data, **IEEE PerCom 2023**.
