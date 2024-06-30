@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am currently a Postdoctoral Associate at the Department of Biomedical Informatics & Data Science at Yale School of Medicine with Prof. [Qingyu Chen](https://sites.google.com/view/qingyuchen/home). Before that, I was a Research Fellow at Nanyang Technological University with Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/), Prof. [Han Yu](https://personal.ntu.edu.sg/han.yu/) and Prof. [Luu Anh Tuan](https://tuanluu.github.io/). I received my Ph.D degree from the School of Computer Science and Technology, University of Science and Technology of China, under the supervision of Prof. [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/index.html) and Prof. [Lan Zhang](http://cs.ustc.edu.cn/2020/0706/c23235a460088/page.htm). 
 
-My research interests focus on task-oriented data quality assessment for large-scale datasets, federated learning, interpretation and graph learning. 
+My research interests focus on trustworthy AI, medical large language models, federated learning and graph learning. 
 
 
 Recent News
