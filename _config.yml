@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anran Li / Dr."
 title_separator          : "-"
 name                     : &name "Dr. Anran Li"
-description              : &description "Research Fellow at Nanyang Technological University"
+description              : &description "Postdoctoral Associate at Yale University"
 url                      : https:/AnranLi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anranLi515/AnranLi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Anran Li"
   avatar           : "profile.png"
-  bio              : "Research Fellow at Nanyang Technological University, Singapore"
+  bio              : "Postdoctoral Associate at Yale University, USA"
   location         : "Sinapore"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
