@@ -14,7 +14,8 @@ My research interests focus on trustworthy AI, medical large language models, fe
 
 Recent News
 ------
-1. [2024.07.01] Dr. Anran Li has joined the Department of Biomedical Informatics & Data Science at Yale School of Medicine as a Postdoctoral Associate. 
+1. [2024.07.12] Our paper "FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios" was accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) 2024. 
+2. [2024.07.01] Dr. Anran Li has joined the Department of Biomedical Informatics & Data Science at Yale School of Medicine as a Postdoctoral Associate. 
 3. [2024.04.17] Our paper "Dual Calibration-based Personalised Federated Learning" was accepted by **IJCAI 2024**. 
 4. [2024.04.04] Dr. Anran Li received the SIGMOD 2024 scholarship award. 
 5. [2024.03.15] Dr. Anran Li served as a PC member of **FL@FM-IJCAI'24**. 
