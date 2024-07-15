@@ -42,9 +42,9 @@ Recent News
 
 ## Contact
 
-Address: Nanyang Technological University 50 Nanyang Avenue, Singapore 639798
+Address: Yale University, New Haven, CT 06520
 
-Email: anranLi@mail.ustc.edu.cn 
+Email: anran.li@yale.edu 
 
 
 
