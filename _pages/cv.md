@@ -9,15 +9,20 @@ redirect_from:
 
 Work experience
 ======
+* Dec 2021-June 2024: Research Fellow 
+  * Nanyang Technological University, Singapore
+  * Duties included: Trustworthy AI, Data Selection, Federated Learning and Graph Learning
+  * Supervisor: Prof. Yang Liu, Prof. Han Yu, Prof. Luu Anh Tuan
+  * 
 * June 2021-Dec 2021: Postdoc 
   * University of Science and Technology of China
   * Duties included: Data Quality Assessment, Federated Learning and Internship at Tencent, Shanghai
-  * Supervisor: Professor Xiang-Yang Li 
+  * Supervisor: Prof. Xiang-Yang Li 
 
 * Dec 2021- Now: Research Fellow
   * Nanyang Technological University
   * Duties included: Task-oriented Data Quality Assessment, Federated Learning
-  * Supervisor: Professor Yang Liu
+  * Supervisor: Prof. Yang Liu
 
 Service and Activities
 ======
@@ -47,10 +52,11 @@ Scholarship and Awards
 
 Talks
 ======
+* Presentation of the paper 'FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning' in the conference INFOCOM 2023. 
 * Presentation of the paper 'Efficient Federated-Learning Model Debugging' in the conference ICDE 2021.
 * Presentation of the paper 'Sample-level Data Selection for Federated Learning' in the conference infocom 2021.
   
 
 Hobbies
 ======
-Badminton, Table tennis, Singing, Traveling
+Badminton, Hiking, Table tennis, Singing, Traveling
