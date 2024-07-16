@@ -14,8 +14,8 @@ My research interests focus on trustworthy AI, medical large language models, fe
 
 Recent News
 ------
-1. [2024.07.15] Our paper "CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance" was accepted by ACM SIGBED International Conference on Embedded Software (EMSOFT 2024). 
-2. [2024.07.12] Our paper "FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios" was accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) 2024. 
+1. [2024.07.15] Our paper "CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance" was accepted by ACM SIGBED International Conference on Embedded Software (**EMSOFT 2024**). 
+2. [2024.07.12] Our paper "FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios" was accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD 2024**). 
 3. [2024.07.01] Dr. Anran Li has joined the Department of Biomedical Informatics & Data Science at Yale School of Medicine as a Postdoctoral Associate. 
 4. [2024.04.17] Our paper "Dual Calibration-based Personalised Federated Learning" was accepted by **IJCAI 2024**. 
 5. [2024.04.04] Dr. Anran Li received the SIGMOD 2024 scholarship award. 
