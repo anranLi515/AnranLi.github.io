@@ -19,7 +19,7 @@ Recent News
 3. [2024.08.13] Dr. Anran Li served as a PC member of **AAAI 2025**. 
 4. [2024.07.29] Our paper "Privacy-preserving Data Selection for Horizontal and Vertical Federated Learning" was accepted by IEEE Transactions on Parallel and Distributed Systems (**IEEE TPDS 2024**). 
 5. [2024.07.15] Our paper "CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance" was accepted by ACM SIGBED International Conference on Embedded Software (**EMSOFT 2024**). 
-6. [2024.07.12] Our paper "FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios" was accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD 2024**). 
+6. [2024.07.12] Our paper "FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios" was accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**IEEE TCAD 2024**). 
 7. [2024.07.01] Dr. Anran Li joined the Department of Biomedical Informatics & Data Science, School of Medicine at Yale University as a Postdoctoral Associate. 
 8. [2024.04.17] Our paper "Dual Calibration-based Personalised Federated Learning" was accepted by **IJCAI 2024**. 
 9. [2024.04.04] Dr. Anran Li received the SIGMOD 2024 scholarship award. 
