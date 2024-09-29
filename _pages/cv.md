@@ -24,11 +24,6 @@ Work experience
   * Duties included: Data Quality Assessment, Federated Learning and Internship at Tencent, Shanghai
   * Supervisor: Prof. Xiang-Yang Li 
 
-* Dec 2021- Now: Research Fellow
-  * Nanyang Technological University
-  * Duties included: Task-oriented Data Quality Assessment, Federated Learning
-  * Supervisor: Prof. Yang Liu
-
 Service and Activities
 ======
 * **Reviewers**
