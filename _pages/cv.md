@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Activities"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,11 @@ redirect_from:
 
 Work experience
 ======
+* July 2024-Present: Postdoctoral Associate 
+  * Yale University, USA
+  * Duties included: Medical Large Language Model, Federated Learning
+  * Supervisor: Prof. Qingyu Chen 
+  * 
 * Dec 2021-June 2024: Research Fellow 
   * Nanyang Technological University, Singapore
   * Duties included: Trustworthy AI, Data Selection, Federated Learning and Graph Learning
@@ -27,6 +32,8 @@ Work experience
 Service and Activities
 ======
 * **Reviewers**
+  * Review manuscripts from AAAI-25, AAAI024 as the PC member
+  * Review manuscripts from TNNLS  
   * Review manuscripts from FL-AAAI-22 as the PC member
   * Review manuscripts from IEEE Transactions on Cloud Computing 2021 (TCC2021)
   * Review manuscripts from IEEE Transactions on Dependable and Secure Computing 2021 (TDSC 2021)
@@ -35,6 +42,8 @@ Service and Activities
 * **Academic Services**
   * Volunteer in 12th International Conference on Mobile Ad-hoc and Sensor Networks 2016 (Hefei, China)
 * **Attended Conferences**
+  * ACM SIGMOD 2024 - Santiago, Chile, June, 2024
+  * IEEE INFOCOM 2023 - New York, USA, May, 2023 
   * ACM Turing Celebration Conference - China Aug, 2021 (Hefei, China)
   * IEEE International Conference on Computer Communications (INFOCOM 2021), May 10-13 2021
   * The 37th IEEE International Conference on Data Engineering (ICDE 2021), April 19-22 2021
