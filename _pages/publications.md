@@ -22,23 +22,24 @@ Understanding, **ICSE 2024**.
 12. Ming Hu, Yue Cao, **Anran Li**$^*$, Ming Zhi, Chengwei Liu, Tianlin Li, Mingsong Chen, Yang Liu, FedMut: Generalized Federated Learning via Stochastic Mutation, **AAAI 2024**.
 13. Jian Zhang, Chong Wang, **Anran Li**, Wenhan Wang, Tianlin Li, Yang Liu, VulAdvisor: Natural Language Suggestion Generation for Software Vulnerability Repair, 39th IEEE/ACM International Conference on Automated Software Engineering, **ASE 2024**. 
 14. Tianlin Li, Zhiming Li, **Anran Li**$^*$, Mengnan Du, Aishan Liu, Qing Guo, Guozhu Meng, Yang Liu, Fairness via Group Contribution Matching,  **IJCAI 2023**.
-15. Lan Zhang, **Anran Li**, Hongyi Peng, Feng han, Fan Huang, Xiangyang Li, Privacy-preserving Data Selection for Horizontal and Vertical Federated Learning, **IEEE TPDS 2024**. 
-16. Ming Hu, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, Yihao Huang, **Anran Li**, Yang Liu, Xiang Lian, Mingsong Chen, FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation, **IEEE ICDE 2024**.
-17. Xiaoli Tang, Han Yu, Chao Ren, Run Tang, **Anran Li**, Xiaoxiao Li, Dual Calibration-based Personalised Federated Learning, **IJCAI 2024**.
-18. Zekai Chen, Chentao Jia, Ming Hu, Xiaofei Xie, **Anran Li**, Mingsong Chen, FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD 2024**).
-19. Zeke Xia, Ming Hu, Dengke Yan, Xiaofei Xie, Tianlin Li, **Anran Li**, Junlong Zhou, Mingsong Chen, CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD 2024**). 
-20. Guangjing Wang, Hanqing Guo, **Anran Li**, Xiaorui Liu, Qiben Yan, Federated IoT Interaction Vulnerability Analysis, **IEEE ICDE 2023**.
-21. Ju Jia, Yueming Wu, **Anran Li**, Yang Liu, Subnetwork-Lossless Robust Watermarking for Hostile Theft Attacks in Deep Transfer Learning Models, IEEE Transaction on Dependable and Secure Computing (**IEEE TDSC 2022**).
-22. Junhao Wang, Lan Zhang, **Anran Li**, Xuanke You, Haoran Cheng, Efficient Participant Contribution Evaluation for Horizontal and Vertical Federated Learning, **IEEE ICDE 2022**.
-23. Shuangshuang Xue, Lan Zhang, **Anran Li**, Xiang-Yang Li, Chaoyi Ruan, Wenchao Huang, AppDNA: App Behavior Profiling via Graph-based Deep Learning, **IEEE INFOCOM 2018**.
-24. Rui Liu, Pengwei Xing, Zichao Deng, **Anran Li**, Cuntai Guan, Han Yu, Federated Graph Neural Networks: Overview, Techniques and Challenges, **IEEE TNNLS 2024**.
-25. Rui Liu, Yuanyuan Chen, **Anran Li**, Yi Ding, Han Yu, Cuntai Guan, Aggregating Intrinsic Information to Enhance BCI Performance through Federated Learning, **Neural Networks 2024**. 
-26. Wenhan Wang, Kechi Zhang, Ge Li, Shangqing Liu, **Anran Li**, Zhi Jin, Liu Yang, Learning Program Representations with a Tree-Structured Transformer, **SANER 2023**.
-27. Yihang Cheng, Lan Zhang, **Anran Li**, GFL: Federated Learning on Non-IID data via Privacy-preserving Synthetic data, **IEEE PerCom 2023**.
-28. Hong Zhang, Lan Zhang, Ju Huang, **Anran Li**, Haoran Cheng, Dongbo Huang, and Lan Xu, A Unified Guaranteed Impression Allocation Framework for Online Display Advertising, IEEE International Conference on Data Engineering (**IEEE ICDM 2022**).
-29. Jiahui Huang, Lan Zhang, **Anran Li**, Haoran Cheng, Jiexin Xu, Hongmei Song, Adaptive and Efficient Participant Selection in Vertical Federated Learning, **IEEE MSN 2023**.
-30. Juntao Tan, Lan Zhang, Yang Liu, **Anran Li**, Ye Wu, Residue-based Label Protection Mechanisms in Vertical Logistic Regression,  **BigCom 2022**.
-31. Lan Chen, Linlin Chen, **Anran Li**, Xiaoyu Wang, FATE: Fingerprints Automatically Targeting and Extracting for image source identification, **BigCom 2020**.
-32. Rui Jiao, Lan Zhang, **Anran Li**, Ieye: Personalized image privacy detection, **BigCom 2020**.
-33. Lan Chen, **Anran Li**, Lei Yu, Forensic technology for source camera identification, Artificial Intelligence and Security: 6th International Conference, **ICAIS 2020**.
-34. 李向阳，张兰，**李安然**，数据共享和交易：数据的质量、价值和价格，**中国计算机学会通讯2019**. 
+15. Lan Zhang, **Anran Li**, Hongyi Peng, Feng han, Fan Huang, Xiangyang Li, Privacy-preserving Data Selection for Horizontal and Vertical Federated Learning, **IEEE TPDS 2024**.
+16. Zeke Xia, Ming Hu, DengKe Yan, Ruixuan Liu, **Anran Li**, Xiaofei Xie, Mingsong Chen, MultiSFL: Towards Accurate Split Federated Learning via Multi-Model Aggregation and Knowledge Replay, **AAAI 2025**. 
+17. Ming Hu, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, Yihao Huang, **Anran Li**, Yang Liu, Xiang Lian, Mingsong Chen, FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation, **IEEE ICDE 2024**.
+18. Xiaoli Tang, Han Yu, Chao Ren, Run Tang, **Anran Li**, Xiaoxiao Li, Dual Calibration-based Personalised Federated Learning, **IJCAI 2024**.
+19. Zekai Chen, Chentao Jia, Ming Hu, Xiaofei Xie, **Anran Li**, Mingsong Chen, FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD 2024**).
+20. Zeke Xia, Ming Hu, Dengke Yan, Xiaofei Xie, Tianlin Li, **Anran Li**, Junlong Zhou, Mingsong Chen, CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD 2024**). 
+21. Guangjing Wang, Hanqing Guo, **Anran Li**, Xiaorui Liu, Qiben Yan, Federated IoT Interaction Vulnerability Analysis, **IEEE ICDE 2023**.
+22. Ju Jia, Yueming Wu, **Anran Li**, Yang Liu, Subnetwork-Lossless Robust Watermarking for Hostile Theft Attacks in Deep Transfer Learning Models, IEEE Transaction on Dependable and Secure Computing (**IEEE TDSC 2022**).
+23. Junhao Wang, Lan Zhang, **Anran Li**, Xuanke You, Haoran Cheng, Efficient Participant Contribution Evaluation for Horizontal and Vertical Federated Learning, **IEEE ICDE 2022**.
+24. Shuangshuang Xue, Lan Zhang, **Anran Li**, Xiang-Yang Li, Chaoyi Ruan, Wenchao Huang, AppDNA: App Behavior Profiling via Graph-based Deep Learning, **IEEE INFOCOM 2018**.
+25. Rui Liu, Pengwei Xing, Zichao Deng, **Anran Li**, Cuntai Guan, Han Yu, Federated Graph Neural Networks: Overview, Techniques and Challenges, **IEEE TNNLS 2024**.
+26. Rui Liu, Yuanyuan Chen, **Anran Li**, Yi Ding, Han Yu, Cuntai Guan, Aggregating Intrinsic Information to Enhance BCI Performance through Federated Learning, **Neural Networks 2024**. 
+27. Wenhan Wang, Kechi Zhang, Ge Li, Shangqing Liu, **Anran Li**, Zhi Jin, Liu Yang, Learning Program Representations with a Tree-Structured Transformer, **SANER 2023**.
+28. Yihang Cheng, Lan Zhang, **Anran Li**, GFL: Federated Learning on Non-IID data via Privacy-preserving Synthetic data, **IEEE PerCom 2023**.
+29. Hong Zhang, Lan Zhang, Ju Huang, **Anran Li**, Haoran Cheng, Dongbo Huang, and Lan Xu, A Unified Guaranteed Impression Allocation Framework for Online Display Advertising, IEEE International Conference on Data Engineering (**IEEE ICDM 2022**).
+30. Jiahui Huang, Lan Zhang, **Anran Li**, Haoran Cheng, Jiexin Xu, Hongmei Song, Adaptive and Efficient Participant Selection in Vertical Federated Learning, **IEEE MSN 2023**.
+31. Juntao Tan, Lan Zhang, Yang Liu, **Anran Li**, Ye Wu, Residue-based Label Protection Mechanisms in Vertical Logistic Regression,  **BigCom 2022**.
+32. Lan Chen, Linlin Chen, **Anran Li**, Xiaoyu Wang, FATE: Fingerprints Automatically Targeting and Extracting for image source identification, **BigCom 2020**.
+33. Rui Jiao, Lan Zhang, **Anran Li**, Ieye: Personalized image privacy detection, **BigCom 2020**.
+34. Lan Chen, **Anran Li**, Lei Yu, Forensic technology for source camera identification, Artificial Intelligence and Security: 6th International Conference, **ICAIS 2020**.
+35. 李向阳，张兰，**李安然**，数据共享和交易：数据的质量、价值和价格，**中国计算机学会通讯2019**. 
