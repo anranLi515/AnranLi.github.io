@@ -14,7 +14,7 @@ My research interests focus on trustworthy AI, medical large language models, fe
 
 Recent News
 ------
-1. [2025.01.12] Our paper "Advances and Open Challenges in Federated Foundation Models" was accepted by IEEE Communications Surveys and Tutorials (**IEEE COMST**). 
+1. [2025.01.12] Our paper "Advances and Open Challenges in Federated Foundation Models" was accepted by IEEE Communications Surveys and Tutorials (**IEEE COMST**), IF: 34.4. 
 2. [2024.12.09] Our paper "MultiSFL: Towards Accurate Split Federated Learning via Multi-Model Aggregation and Knowledge Replay" was accepted by **AAAI 2025**. 
 3. [2024.08.27] Our paper "Joint Client-and-Sample Selection for Federated Learning via Bi-level Optimization" was accepted by **IEEE TMC 2024**.
 4. [2024.08.27] Dr. Anran Li served as a PC member of **FL@FM-NeurIPS'24**. 
