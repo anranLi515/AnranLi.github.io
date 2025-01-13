@@ -23,7 +23,7 @@ Understanding, **ICSE 2024**.
 13. Jian Zhang, Chong Wang, **Anran Li**, Wenhan Wang, Tianlin Li, Yang Liu, VulAdvisor: Natural Language Suggestion Generation for Software Vulnerability Repair, 39th IEEE/ACM International Conference on Automated Software Engineering, **ASE 2024**. 
 14. Tianlin Li, Zhiming Li, **Anran Li**$^*$, Mengnan Du, Aishan Liu, Qing Guo, Guozhu Meng, Yang Liu, Fairness via Group Contribution Matching,  **IJCAI 2023**.
 15. Lan Zhang, **Anran Li**, Hongyi Peng, Feng han, Fan Huang, Xiangyang Li, Privacy-preserving Data Selection for Horizontal and Vertical Federated Learning, **IEEE TPDS 2024**.
-16. Chao Ren, Han Yu, Hongyi Peng, Xiaoli Tang, **Anran Li**, Yulan Gao, Alysa Ziying Tan, Bo Zhao, Xiaoxiao Li, Zengxiang Li, Qiang Yang, Advances and Open Challenges in Federated Foundation Models, IEEE Communications Surveys and Tutorials (**IEEE COMST 2025**). 
+16. Chao Ren, Han Yu, Hongyi Peng, Xiaoli Tang, **Anran Li**, Yulan Gao, Alysa Ziying Tan, Bo Zhao, Xiaoxiao Li, Zengxiang Li, Qiang Yang, Advances and Open Challenges in Federated Foundation Models, IEEE Communications Surveys and Tutorials (**IEEE COMST 2025, IF: 34.4**). 
 17. Zeke Xia, Ming Hu, DengKe Yan, Ruixuan Liu, **Anran Li**, Xiaofei Xie, Mingsong Chen, MultiSFL: Towards Accurate Split Federated Learning via Multi-Model Aggregation and Knowledge Replay, **AAAI 2025**. 
 18. Ming Hu, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, Yihao Huang, **Anran Li**, Yang Liu, Xiang Lian, Mingsong Chen, FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation, **IEEE ICDE 2024**.
 19. Xiaoli Tang, Han Yu, Chao Ren, Run Tang, **Anran Li**, Xiaoxiao Li, Dual Calibration-based Personalised Federated Learning, **IJCAI 2024**.
