@@ -15,7 +15,7 @@ My research interests focus on trustworthy AI, medical large language models, fe
 Recent News
 ------
 1. [2025.03.01] Our paper "QFEVAL: Quantum Federated Ensembled Variational Adaptive Learning for Dynamic Security Assessment in Cyber-Physical Systems" was accepted by IEEE Journal on Selected Areas in Communications (**JSAC 2025**). 
-2. [2025.02.24] Our paper "FedPPO: Reinforcement Learning-based Client Selection for Federated Learning with Heterogeneous Data" was accepted by IEEE Transactions on Cognitive Communications and Networking (TCCN) 2025. 
+2. [2025.02.24] Our paper "FedPPO: Reinforcement Learning-based Client Selection for Federated Learning with Heterogeneous Data" was accepted by IEEE Transactions on Cognitive Communications and Networking (**TCCN 2025**). 
 3. [2025.01.12] Our paper "Advances and Open Challenges in Federated Foundation Models" was accepted by IEEE Communications Surveys and Tutorials (**IEEE COMST**) 2025, **IF: 34.4**. 
 4. [2024.12.09] Our paper "MultiSFL: Towards Accurate Split Federated Learning via Multi-Model Aggregation and Knowledge Replay" was accepted by **AAAI 2025**. 
 5. [2024.08.27] Our paper "Joint Client-and-Sample Selection for Federated Learning via Bi-level Optimization" was accepted by **IEEE TMC 2024**.
