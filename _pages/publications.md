@@ -14,7 +14,7 @@ Name marked with * implies that I am the corresponding author.
 5. **Anran Li**, Jiahui Huang, Ju Jia, Hongyi Peng, Lan Zhang, Luu Anh Tuan, Han Yu, Xiangyang Li, Efficient and Privacy-Preserving Feature Importance-based Vertical Federated Learning, **IEEE TMC 2023**.
 6. **Anran Li**, Lan Zhang, Juntao Tan, Yaxuan Qin, Junhao Wang, Xiang-Yang Li, Sample-level Data Selection for Federated Learning, **IEEE INFOCOM 2021**.
 7. **Anran Li**, Lan Zhang, Junhao Wang, Juntao Tan, Feng Han, Yaxuan Qin, Nikolaos M. Freris, Xiang-Yang Li, Efficient Federated-Learning Model Debugging, **IEEE ICDE 2021**.
-8. **Anran Li**, Lan Zhang, Junhao Wang, Feng Han, Xiang-Yang Li, Privacy-preserving Efficient Federated-Learning Model Debugging, IEEE Transactions on Parallel and Distributed System (**IEEE TPDS 2021**).
+8. **Anran Li**, Lan Zhang, Junhao Wang, Feng Han, Xiang-Yang Li, Privacy-preserving Efficient Federated-Learning Model Debugging, IEEE Transactions on Parallel and Distributed System (**IEEE TPDS 2022**).
 9. **Anran Li**, Shuangshuang Xue, Xiang-Yang Li, Lan Zhang, Jianwei Qian, AppDNA: Profiling App Behavior via Deep-Learning on Function Call Graphs, IEEE Transactions on Emerging Topics in Computing (**IEEE TETC 2020**).
 10. **Anran Li**, Lan Zhang, Jianwei Qian, Xiang Xiao, Xiang-Yang Li, Yunting Xie. TODQA: Efficient Task-Oriented Data Quality Assessment, **IEEE MSN 2019**, **Best Paper Award**.
 11. Ming Hu, Yue Cao, **Anran Li**$^*$, Ming Zhi, Chengwei Liu, Tianlin Li, Mingsong Chen, Yang Liu, FedMut: Generalized Federated Learning via Stochastic Mutation, **AAAI 2024**.
