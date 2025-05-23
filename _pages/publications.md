@@ -18,7 +18,7 @@ Name marked with * implies that I am the corresponding author.
 9. **Anran Li**, Shuangshuang Xue, Xiang-Yang Li, Lan Zhang, Jianwei Qian, AppDNA: Profiling App Behavior via Deep-Learning on Function Call Graphs, IEEE Transactions on Emerging Topics in Computing (**IEEE TETC 2020**).
 10. **Anran Li**, Lan Zhang, Jianwei Qian, Xiang Xiao, Xiang-Yang Li, Yunting Xie. TODQA: Efficient Task-Oriented Data Quality Assessment, **IEEE MSN 2019**, **Best Paper Award**.
 11. Ming Hu, Yue Cao, **Anran Li**$^*$, Ming Zhi, Chengwei Liu, Tianlin Li, Mingsong Chen, Yang Liu, FedMut: Generalized Federated Learning via Stochastic Mutation, **AAAI 2024**.
-12. Yuanhao feng, **Anran Li**, RF-Eye: Commodity RFID Can Know What You Write and Who You Are Wherever You Are, **TOSN 2025**. 
+12. Yuanhao feng, Jinyang Huang, Youwei Zhang, Xiang Zhang, Meng Li, Fusang, Zhang, Tianyue Zheng, **Anran Li**, Mianxiong Dong, Zhi Liu, RF-Eye: Commodity RFID Can Know What You Write and Who You Are Wherever You Are, **TOSN 2025**. 
 13. Chao Ren, Yingpeng Tang, Yulan Gao, Xian Sun, Kun Fu, Mikael Skoglund, Z Y Dong, Han Yu, Jiong Jin, **Anran Li**, Nikolaj Marchenko, QFEVAL: Quantum Federated Ensembled Variational Adaptive Learning for Dynamic Security Assessment in Cyber-Physical Systems, **JSAC 2025**. 
 14. Wenhan Wang, Yanzhou Li, **Anran Li**$^*$, Jian Zhang, Wei Ma, Yang Liu, An Empirical Study on Noisy Label Learning for Program
 Understanding, **ICSE 2024**.
