@@ -16,7 +16,7 @@ Recent News
 ------
 1. [2025.05.28] Our paper "Can OpenAI o1 Reason Well in Ophthalmology? A 6,990-Question Head-to-Head Evaluation Study" was accepted by **JAMA Ophthalmology 2025**. 
 2. [2025.05.19] Our paper "RF-Eye: Commodity RFID Can Know What You Write and Who You Are Wherever You Are" was accepted by Transactions on Sensor Networks (**TOSN 2025**).
-3. [2025.05.09] Dr. Anran Li was invited to give a talk at [Envisioning AI at Yale: An Interdisciplinary Symposium] (https://ai.yale.edu/symposium-2025). 
+3. [2025.05.09] Dr. Anran Li was invited to give a talk at Envisioning AI at Yale: An Interdisciplinary Symposium 2025. 
 4. [2025.04.16] Dr. Anran Li served as a PC member of **CFAgentic@ICML'25**. 
 5. [2025.03.01] Our paper "QFEVAL: Quantum Federated Ensembled Variational Adaptive Learning for Dynamic Security Assessment in Cyber-Physical Systems" was accepted by IEEE Journal on Selected Areas in Communications (**JSAC 2025**). 
 6. [2025.02.24] Our paper "FedPPO: Reinforcement Learning-based Client Selection for Federated Learning with Heterogeneous Data" was accepted by IEEE Transactions on Cognitive Communications and Networking (**TCCN 2025**). 
