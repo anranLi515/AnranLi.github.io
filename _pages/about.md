@@ -15,7 +15,7 @@ My research interests focus on trustworthy AI, medical large language models, fe
 Recent News
 ------
 1. [2025.09.10] Our paper "Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implication" has been submitted to arXiv.
-2. [2025.07.17] Dr. Anran Li served as a PC member of **AAAi-26** and **AAAI-26-AIA**.  
+2. [2025.07.17] Dr. Anran Li served as a PC member of **AAAI-26** and **AAAI-26-AIA**.   
 3. [2025.05.28] Our paper "Can OpenAI o1 Reason Well in Ophthalmology? A 6,990-Question Head-to-Head Evaluation Study" was accepted by **JAMA Ophthalmology 2025**. 
 4. [2025.05.19] Our paper "RF-Eye: Commodity RFID Can Know What You Write and Who You Are Wherever You Are" was accepted by Transactions on Sensor Networks (**TOSN 2025**).
 5. [2025.05.09] Dr. Anran Li was invited to give a talk at Envisioning AI at Yale: An Interdisciplinary Symposium 2025. 
