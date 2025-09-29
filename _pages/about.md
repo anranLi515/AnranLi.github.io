@@ -14,49 +14,50 @@ My research interests focus on trustworthy AI, medical large language models, fe
 
 Recent News
 ------
-1. [2025.09.26] Our paper "Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implications" was accepted by **AMIA 2025 Annual Symposium** as a Late Breaking Poster. 
-2. [2025.09.26] Our paper "Bridging the Development-Implementation Gap in Clinical NER: An Empirical Study on Input Length Effects for Real-World Deployment" was accepted by **AMIA 2025 Annual Symposium** as a Late Breaking Poster. 
-3. [2025.09.24] Dr. Li served as a PC member of **Machine Learning** and **Scientific Reports**. 
-4. [2025.09.10] Our paper "Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implication" was submitted to arXiv.
-5. [2025.07.17] Dr. Anran Li served as a PC member of **AAAI-26** and **AAAI-26-AIA**.   
-6. [2025.05.28] Our paper "Can OpenAI o1 Reason Well in Ophthalmology? A 6,990-Question Head-to-Head Evaluation Study" was accepted by **JAMA Ophthalmology 2025**. 
-7. [2025.05.19] Our paper "RF-Eye: Commodity RFID Can Know What You Write and Who You Are Wherever You Are" was accepted by Transactions on Sensor Networks (**TOSN 2025**).
-8. [2025.05.09] Dr. Anran Li was invited to give a talk at Envisioning AI at Yale: An Interdisciplinary Symposium 2025. 
-9. [2025.04.16] Dr. Anran Li served as a PC member of **CFAgentic@ICML'25**. 
-10. [2025.03.01] Our paper "QFEVAL: Quantum Federated Ensembled Variational Adaptive Learning for Dynamic Security Assessment in Cyber-Physical Systems" was accepted by IEEE Journal on Selected Areas in Communications (**JSAC 2025**). 
-11. [2025.02.24] Our paper "FedPPO: Reinforcement Learning-based Client Selection for Federated Learning with Heterogeneous Data" was accepted by IEEE Transactions on Cognitive Communications and Networking (**TCCN 2025**). 
-12. [2025.01.12] Our paper "Advances and Open Challenges in Federated Foundation Models" was accepted by IEEE Communications Surveys and Tutorials (**IEEE COMST**) 2025, **IF: 34.4**. 
-13. [2024.12.09] Our paper "MultiSFL: Towards Accurate Split Federated Learning via Multi-Model Aggregation and Knowledge Replay" was accepted by **AAAI 2025**. 
-14. [2024.08.27] Our paper "Joint Client-and-Sample Selection for Federated Learning via Bi-level Optimization" was accepted by **IEEE TMC 2024**.
-15. [2024.08.27] Dr. Anran Li served as a PC member of **FL@FM-NeurIPS'24**. 
-16. [2024.08.13] Dr. Anran Li served as a PC member of **AAAI 2025**.
-17. [2024.08.06] Our paper "VulAdvisor: Natural Language Suggestion Generation for Software Vulnerability Repair" was accepted by **ASE 2024**. 
-18. [2024.07.29] Our paper "Privacy-preserving Data Selection for Horizontal and Vertical Federated Learning" was accepted by IEEE Transactions on Parallel and Distributed Systems (**IEEE TPDS 2024**). 
-19. [2024.07.15] Our paper "CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance" was accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**IEEE TCAD 2024**). 
-20. [2024.07.12] Our paper "FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios" was accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**IEEE TCAD 2024**). 
-21. [2024.07.01] Dr. Anran Li joined the Department of Biomedical Informatics & Data Science, School of Medicine at Yale University as a Postdoctoral Associate. 
-22. [2024.04.17] Our paper "Dual Calibration-based Personalised Federated Learning" was accepted by **IJCAI 2024**. 
-23. [2024.04.04] Dr. Anran Li received the SIGMOD 2024 scholarship award. 
-24. [2024.03.15] Dr. Anran Li served as a PC member of **FL@FM-IJCAI'24**. 
-25. [2024.02.23] Our paper "Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning" was accepted by **ACM SIGMOD 2024**. 
-26. [2024.01.23] Our paper "Federated Graph Neural Networks: Overview, Techniques and Challenges" was accepted by **IEEE TNNLS 2024**.
-27. [2024.01.17] Dr. Anran Li served as a PC member of **IJCAI 2024**.
-28. [2024.01.04] Our paper "Aggregating Intrinsic Information to Enhance BCI Performance through Federated Learning" was accepted by **Neural Networks 2024**. 
-29. [2023.12.16] Our paper "An Empirical Study on Noisy Label Learning for Program Understanding" was accepted by **ICSE 2024**.
-30. [2023.12.09] Our paper "FedMut: Generalized Federated Learning via Stochastic Mutation" was accepted by **AAAI 2024**. 
-31. [2023.12.03] Our paper "FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation" was accepted by **IEEE ICDE 2024**.
-32. [2023.11.08] Our paper "Efficient and Privacy-Preserving Feature Importance-based Vertical Federated Learning" was accepted by **IEEE TMC 2023**. 
-33. [2023.10.16] Our paper "Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning" was submitted to **ACM SIGMOD 2024** 4th round.
-34. [2023.10.02] Our paper "Adaptive and Efficient Participant Selection in Vertical Federated Learning" was accepted by **IEEE MSN 2023**.
-35. [2023.09.20] Dr. Anran Li served as a PC member for **AAMAS 2024**.
-36. [2023.09.13] Dr. Anran Li served as a PC member for **FL@FM-NeurIPS 2023**. 
-37. [2023.08.10] Dr. Anran Li served as a PC member for **AAAI 2024**.
-38. [2023.08.06] One paper has been submitted to IEEE Transactions on Mobile Computing (**IEEE TMC 2023**).
-39. [2023.05.23] Our paper "FedCSS: Joint Client-and-Sample Selection for Hard Sample-Aware Noise-Robust Federated Learning" was accepted by **ACM SIGMOD 2024**. 
-40. [2023.04.20] Our paper "Fairness via Group Contribution Matching" has been accepted by **IJCAI 2023**.
-41. [2022.12.22] Our paper "GFL: Federated Learning on Non-IID data via Privacy-preserving Synthetic data" was accepted by **PerCom 2023**.
-42. [2022.12.16] Our paper "Learning Program Representations with a Tree-Structured Transformer" was accepted by **SANER 2023**.
-43. [2022.12.02] Our paper "FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning" was accepted by **IEEE INFOCOM 2023**. 
+1. [2025.09.29] Our paper "FGRW: Fine-Grained Reversible Watermarking based on Distribution-Adaptive Contrastive Augmentation across Diverse Domains" was accepted by **IEEE TDSC 2025**. 
+2. [2025.09.26] Our paper "Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implications" was accepted by **AMIA 2025 Annual Symposium** as a Late Breaking Poster. 
+3. [2025.09.26] Our paper "Bridging the Development-Implementation Gap in Clinical NER: An Empirical Study on Input Length Effects for Real-World Deployment" was accepted by **AMIA 2025 Annual Symposium** as a Late Breaking Poster. 
+4. [2025.09.24] Dr. Li served as a PC member of **Machine Learning** and **Scientific Reports**. 
+5. [2025.09.10] Our paper "Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implication" was submitted to arXiv.
+6. [2025.07.17] Dr. Anran Li served as a PC member of **AAAI-26** and **AAAI-26-AIA**.   
+7. [2025.05.28] Our paper "Can OpenAI o1 Reason Well in Ophthalmology? A 6,990-Question Head-to-Head Evaluation Study" was accepted by **JAMA Ophthalmology 2025**. 
+8. [2025.05.19] Our paper "RF-Eye: Commodity RFID Can Know What You Write and Who You Are Wherever You Are" was accepted by Transactions on Sensor Networks (**TOSN 2025**).
+9. [2025.05.09] Dr. Anran Li was invited to give a talk at Envisioning AI at Yale: An Interdisciplinary Symposium 2025. 
+10. [2025.04.16] Dr. Anran Li served as a PC member of **CFAgentic@ICML'25**. 
+11. [2025.03.01] Our paper "QFEVAL: Quantum Federated Ensembled Variational Adaptive Learning for Dynamic Security Assessment in Cyber-Physical Systems" was accepted by IEEE Journal on Selected Areas in Communications (**JSAC 2025**). 
+12. [2025.02.24] Our paper "FedPPO: Reinforcement Learning-based Client Selection for Federated Learning with Heterogeneous Data" was accepted by IEEE Transactions on Cognitive Communications and Networking (**TCCN 2025**). 
+13. [2025.01.12] Our paper "Advances and Open Challenges in Federated Foundation Models" was accepted by IEEE Communications Surveys and Tutorials (**IEEE COMST**) 2025, **IF: 34.4**. 
+14. [2024.12.09] Our paper "MultiSFL: Towards Accurate Split Federated Learning via Multi-Model Aggregation and Knowledge Replay" was accepted by **AAAI 2025**. 
+15. [2024.08.27] Our paper "Joint Client-and-Sample Selection for Federated Learning via Bi-level Optimization" was accepted by **IEEE TMC 2024**.
+16. [2024.08.27] Dr. Anran Li served as a PC member of **FL@FM-NeurIPS'24**. 
+17. [2024.08.13] Dr. Anran Li served as a PC member of **AAAI 2025**.
+18. [2024.08.06] Our paper "VulAdvisor: Natural Language Suggestion Generation for Software Vulnerability Repair" was accepted by **ASE 2024**. 
+19. [2024.07.29] Our paper "Privacy-preserving Data Selection for Horizontal and Vertical Federated Learning" was accepted by IEEE Transactions on Parallel and Distributed Systems (**IEEE TPDS 2024**). 
+20. [2024.07.15] Our paper "CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance" was accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**IEEE TCAD 2024**). 
+21. [2024.07.12] Our paper "FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios" was accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**IEEE TCAD 2024**). 
+22. [2024.07.01] Dr. Anran Li joined the Department of Biomedical Informatics & Data Science, School of Medicine at Yale University as a Postdoctoral Associate. 
+23. [2024.04.17] Our paper "Dual Calibration-based Personalised Federated Learning" was accepted by **IJCAI 2024**. 
+24. [2024.04.04] Dr. Anran Li received the SIGMOD 2024 scholarship award. 
+25. [2024.03.15] Dr. Anran Li served as a PC member of **FL@FM-IJCAI'24**. 
+26. [2024.02.23] Our paper "Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning" was accepted by **ACM SIGMOD 2024**. 
+27. [2024.01.23] Our paper "Federated Graph Neural Networks: Overview, Techniques and Challenges" was accepted by **IEEE TNNLS 2024**.
+28. [2024.01.17] Dr. Anran Li served as a PC member of **IJCAI 2024**.
+29. [2024.01.04] Our paper "Aggregating Intrinsic Information to Enhance BCI Performance through Federated Learning" was accepted by **Neural Networks 2024**. 
+30. [2023.12.16] Our paper "An Empirical Study on Noisy Label Learning for Program Understanding" was accepted by **ICSE 2024**.
+31. [2023.12.09] Our paper "FedMut: Generalized Federated Learning via Stochastic Mutation" was accepted by **AAAI 2024**. 
+32. [2023.12.03] Our paper "FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation" was accepted by **IEEE ICDE 2024**.
+33. [2023.11.08] Our paper "Efficient and Privacy-Preserving Feature Importance-based Vertical Federated Learning" was accepted by **IEEE TMC 2023**. 
+34. [2023.10.16] Our paper "Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning" was submitted to **ACM SIGMOD 2024** 4th round.
+35. [2023.10.02] Our paper "Adaptive and Efficient Participant Selection in Vertical Federated Learning" was accepted by **IEEE MSN 2023**.
+36. [2023.09.20] Dr. Anran Li served as a PC member for **AAMAS 2024**.
+37. [2023.09.13] Dr. Anran Li served as a PC member for **FL@FM-NeurIPS 2023**. 
+38. [2023.08.10] Dr. Anran Li served as a PC member for **AAAI 2024**.
+39. [2023.08.06] One paper has been submitted to IEEE Transactions on Mobile Computing (**IEEE TMC 2023**).
+40. [2023.05.23] Our paper "FedCSS: Joint Client-and-Sample Selection for Hard Sample-Aware Noise-Robust Federated Learning" was accepted by **ACM SIGMOD 2024**. 
+41. [2023.04.20] Our paper "Fairness via Group Contribution Matching" has been accepted by **IJCAI 2023**.
+42. [2022.12.22] Our paper "GFL: Federated Learning on Non-IID data via Privacy-preserving Synthetic data" was accepted by **PerCom 2023**.
+43. [2022.12.16] Our paper "Learning Program Representations with a Tree-Structured Transformer" was accepted by **SANER 2023**.
+44. [2022.12.02] Our paper "FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning" was accepted by **IEEE INFOCOM 2023**. 
 
 
 ## Contact
