@@ -9,7 +9,7 @@ redirect_from:
 Albums
 ======
 
-![AMIA 2025](../gallery/amia2025.png)
+![AMIA 2025](../gallery/amia2025.jpg)
 
 AMIA 2025
 
