@@ -48,14 +48,12 @@ Recent News
 34. [2023.12.09] Our paper "FedMut: Generalized Federated Learning via Stochastic Mutation" was accepted by **AAAI 2024**. 
 35. [2023.12.03] Our paper "FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation" was accepted by **IEEE ICDE 2024**.
 36. [2023.11.08] Our paper "Efficient and Privacy-Preserving Feature Importance-based Vertical Federated Learning" was accepted by **IEEE TMC 2023**. 
-37. [2023.10.16] Our paper "Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning" was submitted to **ACM SIGMOD 2024** 4th round.
-38. [2023.10.02] Our paper "Adaptive and Efficient Participant Selection in Vertical Federated Learning" was accepted by **IEEE MSN 2023**.
-39. [2023.09.20] Dr. Anran Li served as a PC member for **AAMAS 2024**.
-40. [2023.09.13] Dr. Anran Li served as a PC member for **FL@FM-NeurIPS 2023**. 
-41. [2023.08.10] Dr. Anran Li served as a PC member for **AAAI 2024**.
-42. [2023.08.06] One paper has been submitted to IEEE Transactions on Mobile Computing (**IEEE TMC 2023**).
-43. [2023.05.23] Our paper "FedCSS: Joint Client-and-Sample Selection for Hard Sample-Aware Noise-Robust Federated Learning" was accepted by **ACM SIGMOD 2024**. 
-44. [2023.04.20] Our paper "Fairness via Group Contribution Matching" has been accepted by **IJCAI 2023**.
+37. [2023.10.02] Our paper "Adaptive and Efficient Participant Selection in Vertical Federated Learning" was accepted by **IEEE MSN 2023**.
+38. [2023.09.20] Dr. Anran Li served as a PC member for **AAMAS 2024**.
+39. [2023.09.13] Dr. Anran Li served as a PC member for **FL@FM-NeurIPS 2023**. 
+40. [2023.08.10] Dr. Anran Li served as a PC member for **AAAI 2024**.
+41. [2023.05.23] Our paper "FedCSS: Joint Client-and-Sample Selection for Hard Sample-Aware Noise-Robust Federated Learning" was accepted by **ACM SIGMOD 2024**. 
+42. [2023.04.20] Our paper "Fairness via Group Contribution Matching" was accepted by **IJCAI 2023**.
 
 
 ## Contact
