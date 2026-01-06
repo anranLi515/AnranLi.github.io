@@ -56,9 +56,6 @@ Recent News
 42. [2023.08.06] One paper has been submitted to IEEE Transactions on Mobile Computing (**IEEE TMC 2023**).
 43. [2023.05.23] Our paper "FedCSS: Joint Client-and-Sample Selection for Hard Sample-Aware Noise-Robust Federated Learning" was accepted by **ACM SIGMOD 2024**. 
 44. [2023.04.20] Our paper "Fairness via Group Contribution Matching" has been accepted by **IJCAI 2023**.
-45. [2022.12.22] Our paper "GFL: Federated Learning on Non-IID data via Privacy-preserving Synthetic data" was accepted by **PerCom 2023**.
-46. [2022.12.16] Our paper "Learning Program Representations with a Tree-Structured Transformer" was accepted by **SANER 2023**.
-47. [2022.12.02] Our paper "FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning" was accepted by **IEEE INFOCOM 2023**. 
 
 
 ## Contact
