@@ -13,7 +13,7 @@ My research interests focus on trustworthy AI, medical large language models, fe
 
 
 Recent News
-
+------
 1. [2025.12.25] Our paper "Evaluating Large Language Models for Line-Level Vulnerability Localization" was accepted by **IEEE Transactions on Software Engineering (IEEE TSE 2025)**. 
 2. [2025.12.17] Dr. Li served as a reviewer for npj Health Systems. 
 3. [2025.09.29] Our paper "FGRW: Fine-Grained Reversible Watermarking based on Distribution-Adaptive Contrastive Augmentation across Diverse Domains" was accepted by **IEEE TDSC 2025**. 
