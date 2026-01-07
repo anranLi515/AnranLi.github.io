@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 | **[Laboratory](/gallery/laboratory/)** | **[Conference](/gallery/conference/)** | 
-| :---: | :---: |
 
 
 ![AMIA 2025](amia2025.jpg){: width="400px" style="display:block; margin:auto;" }
