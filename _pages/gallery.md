@@ -5,6 +5,11 @@ permalink: /gallery/
 author_profile: true
 ---
 
+| **[Laboratory](/gallery/laboratory/)** | **[Conference](/gallery/conference/)** | **[Graduate](/gallery/graduate/)** |
+| :---: | :---: | :---: |
+| 实验室活动 | 会议 | 毕业生 |
+
+
 ![AMIA 2025](amia2025.jpg){: width="400px" style="display:block; margin:auto;" }
 
 {: style="text-align:center;" }
