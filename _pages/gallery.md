@@ -1,13 +1,13 @@
 ---
 layout: archive
+title: "Albums"
 permalink: /gallery/
 author_profile: true
 ---
 
-Albums
-======
-
 ![AMIA 2025](amia2025.jpg){: width="400px" style="display:block; margin:auto;" }
 
+{: style="text-align:center;" }
+AMIA 2025
 
 
