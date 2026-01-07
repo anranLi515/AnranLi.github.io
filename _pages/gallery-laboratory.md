@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Laboratory Activities"
-permalink: /gallery/laboratory
+permalink: /gallery/laboratory/
 author_profile: true
 ---
 
