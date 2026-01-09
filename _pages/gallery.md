@@ -5,7 +5,7 @@ permalink: /gallery/
 author_profile: true
 ---
 
-| **[Laboratory](/gallery/laboratory)** | **[Conference](/gallery/conference)** | 
+| **[Laboratory](/gallery/laboratory/)** | **[Conference](/gallery/conference/)** | 
 
 
 ![AMIA 2025]({{ '/assets/images/amia2025.jpg' | relative_url }}){: width="400px" style="display:block; margin:auto;" }
