@@ -13,6 +13,4 @@ author_profile: true
 {: style="text-align:center;" }
 AMIA 2025 Annual Symposium, November 15-19, Atlanta, GA
 
-本站最后更新于：{{ site.time | date: "%Y-%m-%d %H:%M" }}
-
 
