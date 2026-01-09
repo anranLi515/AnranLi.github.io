@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Laboratory Activities"
+title: "Conference Activities"
 permalink: /gallery/conference/
 author_profile: true
 ---
