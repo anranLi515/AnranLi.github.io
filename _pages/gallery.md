@@ -20,7 +20,7 @@ author_profile: true
   }
 </style>
 
-**[Laboratory]({{ '/gallery/laboratory/' | relative_url }}){: .btn }** **[Conference]({{ '/gallery/conference/' | relative_url }})** {: .btn } 
+**[Laboratory]({{ '/gallery/laboratory/' | relative_url }})**{: .btn } **[Conference]({{ '/gallery/conference/' | relative_url }})**{: .btn }
 
 
 
