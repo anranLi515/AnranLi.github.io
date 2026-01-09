@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Laboratory Activities"
-permalink: /gallery/inference/
+permalink: /gallery/conference/
 author_profile: true
 ---
 
