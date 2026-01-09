@@ -5,12 +5,23 @@ permalink: /gallery/
 author_profile: true
 ---
 
-| **[Laboratory]({{ '/gallery/laboratory/' | relative_url }})** | **[Conference]({{ '/gallery/conference/' | relative_url }})** | 
+<style>
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff; /* 蓝色 */
+    color: white !important;
+    border-radius: 6px;
+    text-decoration: none !important;
+    margin-right: 10px;
+  }
+  .btn:hover {
+    background-color: #0056b3; /* 悬停时深蓝色 */
+  }
+</style>
+
+**[Laboratory]({{ '/gallery/laboratory/' | relative_url }}){: .btn }** **[Conference]({{ '/gallery/conference/' | relative_url }})** {: .btn } 
 
 
-![AMIA 2025]({{ '/assets/images/amia2025.jpg' | relative_url }}){: width="400px" style="display:block; margin:auto;" }
-
-{: style="text-align:center;" }
-AMIA 2025 Annual Symposium, November 15-19, Atlanta, GA 2
 
 
