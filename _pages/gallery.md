@@ -17,6 +17,8 @@ author_profile: true
     font-weight: bold;       /* 强制字体加粗 */
     text-align: center;
     transition: 0.3s;        /* 增加平滑过渡效果 */
+    opacity: 1 !important;     /* 强制完全不透明 */
+    filter: none !important;    /* 防止某些主题的滤镜干扰 */
   }
   
   .btn:hover {
