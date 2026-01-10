@@ -4,54 +4,53 @@ title: "Albums"
 permalink: /gallery/
 author_profile: true
 ---
-
-<div class="button-center-container">
-  **[Laboratory]({{ '/gallery/laboratory/' | relative_url }})**{: .btn-outline }
-  **[Conference]({{ '/gallery/conference/' | relative_url }})**{: .btn-outline }
-</div>
-
 <style>
-  /* 容器居中 */
+  /* 1. 容器居中 */
   .button-center-container {
-    text-align: center; /* 让内部的 inline-block 元素居中 */
-    margin: 30px 0;    /* 上下留白 */
+    text-align: center; /* 让内部的元素水平居中 */
+    margin: 40px 0;     /* 增加上下留白，让页面更有呼吸感 */
     width: 100%;
+    display: block;
   }
 
-  /* 镂空按钮样式 */
+  /* 2. 镂空按钮样式 */
   .btn-outline {
     display: inline-block;
-    padding: 12px 30px;        /* 调整内边距 */
-    margin: 10px;             /* 按钮之间的间距 */
+    padding: 12px 35px;        /* 增加左右长度 */
+    margin: 10px;              /* 按钮之间的间距 */
     
     /* 背景与边框 */
-    background-color: transparent !important; /* 背景透明 */
-    border: 2px solid #003366; /* 深蓝色边框 (你可以根据喜好调整为更深的颜色) */
-    border-radius: 6px;       /* 圆角 */
+    background-color: transparent !important; 
+    border: 2px solid #003366 !important;    /* 深蓝色边框 */
+    border-radius: 6px;       
     
     /* 字体设置 */
-    color: #000000 !important; /* 字体黑色 */
-    font-size: 1.25em;        /* 字体调大（约比默认大 3 个号） */
-    font-weight: bold;        /* 加粗 */
+    color: #000000 !important; /* 字体纯黑 */
+    font-size: 1.25em !important; /* 字体调大 3 个号 */
+    font-weight: bold !important; 
     text-decoration: none !important;
     
-    /* 居中对齐 */
+    /* 对齐与平滑过渡 */
     text-align: center;
-    line-height: 1.5;         /* 确保文字垂直居中 */
-    
-    transition: all 0.3s ease; /* 平滑过渡 */
+    line-height: 1.5;
+    transition: all 0.3s ease;
     cursor: pointer;
   }
 
-  /* 悬停效果：建议悬停时填充颜色，或者加深边框 */
+  /* 3. 悬停效果 */
   .btn-outline:hover {
-    background-color: #f0f7ff !important; /* 悬停时淡淡的浅蓝底色，防止太死板 */
-    border-color: #001a33;               /* 边框颜色变深 */
-    transform: translateY(-2px);         /* 轻微浮动感 */
+    background-color: #f0f7ff !important; /* 悬停时淡淡的浅蓝底色 */
+    border-color: #001a33 !important;     /* 边框颜色加深 */
+    transform: translateY(-2px);         /* 轻微上浮 */
     text-decoration: none !important;
+    color: #003366 !important;           /* 悬停时文字稍微变蓝，增加互动感 */
   }
 </style>
 
-
+<div class="button-center-container">
+  <a href="{{ '/gallery/laboratory/' | relative_url }}" class="btn-outline">Research Events</a>
+  <a href="{{ '/gallery/conference/' | relative_url }}" class="btn-outline">Group Photos</a>
+  <a>Others</a>
+</div>
 
 
