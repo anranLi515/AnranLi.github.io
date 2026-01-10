@@ -25,7 +25,7 @@ author_profile: true
     border-radius: 6px;       
     
     /* 字体设置 */
-    color: #000000 !important; /* 字体纯黑 */
+    color: #494e52 !important; /* 字体颜色 */
     font-size: 1.25em !important; /* 字体调大 3 个号 */
     font-weight: bold !important; 
     text-decoration: none !important;
@@ -50,7 +50,7 @@ author_profile: true
 <div class="button-center-container">
   <a href="{{ '/gallery/laboratory/' | relative_url }}" class="btn-outline">Research Events</a>
   <a href="{{ '/gallery/conference/' | relative_url }}" class="btn-outline">Group Photos</a>
-  <a>Others</a>
+  <a class="btn-outline">Others</a>
 </div>
 
 
