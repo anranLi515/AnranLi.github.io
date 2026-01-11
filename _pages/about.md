@@ -9,6 +9,12 @@ redirect_from:
 ---
 I am currently a Postdoctoral Associate at the Department of Biomedical Informatics & Data Science, School of Medicine at Yale University, working with Prof. [Qingyu Chen](https://sites.google.com/view/qingyuchen/home). Also, I worked closely with Prof. [Hua Xu](https://medicine.yale.edu/profile/hua-xu/), Prof. [Lucila Ohno-Machado](https://medicine.yale.edu/profile/lucila-ohno-machado/) (MD, MBA, PhD), and Prof. [Hyunghoon Cho](https://medicine.yale.edu/profile/hoon-cho/). Prior to joining Yale University, I was a Research Fellow at the College of Computing and Data Science at Nanyang Technological University, working with Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/), Prof. [Han Yu](https://personal.ntu.edu.sg/han.yu/) and Prof. [Luu Anh Tuan](https://tuanluu.github.io/). I received my Ph.D degree from the School of Computer Science and Technology, University of Science and Technology of China, under the supervision of Prof. [Xiangyang Li](http://staff.ustc.edu.cn/~xiangyangli/index.html) and Prof. [Lan Zhang](http://cs.ustc.edu.cn/2020/0706/c23235a460088/page.htm). My research interests focus on trustworthy AI, medical large language models, federated learning and graph learning. 
 
+Work Experience 
+------
+2024.07-Present, Postdoctoral Associate, Department of Biomedical Informatics & Data Science, School of Medicine at Yale University 
+2021.12-2024.06, Research Fellow, College of Computing and Data Science at Nanyang Technological University 
+2021.06-2021.12, Postdoctoral Researcher, School of Computer Science and Technology, University of Science and Technology of China
+
 
 Recent News
 ------
