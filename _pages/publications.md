@@ -36,7 +36,7 @@ Understanding, **ICSE 2024**.
 26. Jian Zhang, Chong Wang, **Anran Li**, Wenhan Wang, Tianlin Li, Yang Liu, VulAdvisor: Natural Language Suggestion Generation for Software Vulnerability Repair, 39th IEEE/ACM International Conference on Automated Software Engineering, **ASE 2024**. 
 27. Ming Hu, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, Yihao Huang, **Anran Li**, Yang Liu, Xiang Lian, Mingsong Chen, FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation, **IEEE ICDE 2024**.
 28. Xiaoli Tang, Han Yu, Chao Ren, Run Tang, **Anran Li**, Xiaoxiao Li, Dual Calibration-based Personalised Federated Learning, **IJCAI 2024**.
-29. Zekai Chen, Chentao Jia, Ming Hu, Xiaofei Xie, **Anran Li**, Mingsong Chen, FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD 2024**).
+29. Zekai Chen, Chentao Jia, Ming Hu, Xiaofei Xie, **Anran Li**, Mingsong Chen, FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios, **IEEE TCAD 2024**.
 30. Zeke Xia, Ming Hu, Dengke Yan, Xiaofei Xie, Tianlin Li, **Anran Li**, Junlong Zhou, Mingsong Chen, CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance, **IEEE TCAD 2024**. 
 31. Guangjing Wang, Hanqing Guo, **Anran Li**, Xiaorui Liu, Qiben Yan, Federated IoT Interaction Vulnerability Analysis, **IEEE ICDE 2023**.
 32. Ju Jia, Yueming Wu, **Anran Li**, Yang Liu, Subnetwork-Lossless Robust Watermarking for Hostile Theft Attacks in Deep Transfer Learning Models, **IEEE TDSC 2022**.
