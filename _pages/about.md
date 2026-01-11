@@ -12,7 +12,7 @@ I am currently a Postdoctoral Associate at the Department of Biomedical Informat
 
 Recent News
 ------
-1. [2026.01.11] Our paper "VTarbel: Targeted Label Attack with Minimal Knowledge on Detector-enhanced Vertical Federated Learning" was accepted by **Transactions on Sensor Networks (TOSN 2026)**. Congratulations to Juntao! 
+1. [2026.01.11] Our paper "VTarbel: Targeted Label Attack with Minimal Knowledge on Detector-enhanced Vertical Federated Learning" was accepted by **ACM Transactions on Sensor Networks (ACM TOSN 2026)**. Congratulations to Juntao! 
 2. [2026.01.05] Dr. Li served as a reviewer for CVPR 2026. 
 3. [2025.12.25] Our paper "Evaluating Large Language Models for Line-Level Vulnerability Localization" was accepted by **IEEE Transactions on Software Engineering (IEEE TSE 2025)**. 
 4. [2025.12.17] Dr. Li served as a reviewer for npj Health Systems. 
