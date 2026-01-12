@@ -1,5 +1,11 @@
-Scholarship and Awards
-------
+---
+layout: archive
+permalink: /service/
+title: "Service"
+author_profile: true
+--- 
+
+
 * The President of the Chinese Academy of Science praises 2021.
 * Outstanding Doctoral Dissertation Award of University of Science and Technology of China 2021.
 * ACM China, Outstanding Doctoral Dissertation Award of Hefei Branch, 2021.
