@@ -13,7 +13,7 @@ Work Experience
 ------
 * 2024.07-Present, Postdoctoral Associate, Department of Biomedical Informatics & Data Science, School of Medicine at Yale University, USA 
 * 2021.12-2024.06, Research Fellow, College of Computing and Data Science at Nanyang Technological University, Singapore
-* 2021.06-2021.12, Postdoctoral Researcher, School of Computer Science and Technology, University of Science and Technology of China  
+* 2021.06-2021.12, Postdoctoral Researcher, School of Computer Science and Technology, University of Science and Technology of China, China 
 * 2021.07-2021.12, Visiting Researcher (industry collaboration), Tencent, Shanghai, China  
 
 
