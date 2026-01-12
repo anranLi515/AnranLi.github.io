@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /service/
-title: "Professional Service"
+title: "Professional Services"
 author_profile: true 
 ---
 
