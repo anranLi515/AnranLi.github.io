@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 Service and Activities
-======
+------
 * **Reviewers**
   * Review manuscripts from AAAI-25, AAAI024 as the PC member
   * Review manuscripts from TNNLS  
@@ -29,7 +29,7 @@ Service and Activities
   * The annual meeting of Microsoft Research Asia China 2017 (Beijing, China)
 
 Scholarship and Awards
-======
+------
 * The President of the Chinese Academy of Science praises 2021.
 * Outstanding Doctoral Dissertation Award of University of Science and Technology of China 2021.
 * ACM China, Outstanding Doctoral Dissertation Award of Hefei Branch, 2021.
@@ -37,12 +37,9 @@ Scholarship and Awards
 * IEEE International Conference on Mobile Ad-hoc and Sensor Network (MSN) 2019 Best Paper Award.
 
 Talks
-======
+------
 * Presentation of the paper 'FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning' in the conference INFOCOM 2023. 
 * Presentation of the paper 'Efficient Federated-Learning Model Debugging' in the conference ICDE 2021.
 * Presentation of the paper 'Sample-level Data Selection for Federated Learning' in the conference infocom 2021.
   
 
-Hobbies
-======
-Badminton, Hiking, Table tennis, Singing, Traveling
