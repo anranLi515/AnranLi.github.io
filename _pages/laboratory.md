@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Laboratory Activities"
+title: "Research Events"
 permalink: /gallery/laboratory/
 author_profile: true
 ---
