@@ -66,8 +66,8 @@ author_profile: true
 </style>
 
 <div class="button-center-container">
-  <a href="{{ '/gallery/laboratory/' | relative_url }}" class="btn-outline">Research Events</a>
-  <a href="{{ '/gallery/conference/' | relative_url }}" class="btn-outline">Group Photos</a>
+  <a href="{{ '/gallery/research_events/' | relative_url }}" class="btn-outline">Research Events</a>
+  <a href="{{ '/gallery/group_photos/' | relative_url }}" class="btn-outline">Group Photos</a>
   <a class="btn-outline">Others</a>
 </div>
 
