@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Conference Activities"
+title: "Group Photos"
 permalink: /gallery/conference/
 author_profile: true
 ---
