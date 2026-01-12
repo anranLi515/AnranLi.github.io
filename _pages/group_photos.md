@@ -1,0 +1,11 @@
+---
+layout: archive
+title: "Group Photos"
+permalink: /gallery/group_photos/
+author_profile: true
+---
+
+![AMIA 2025]({{ '/assets/images/group_photos/retreat2025.jpg' | relative_url }}){: width="400px" style="display:block; margin:auto;" }
+
+{: style="text-align:center;" }
+Retreat 2025, Xu and Chen Labs, Skytop Lodge, Pennsylvania 
