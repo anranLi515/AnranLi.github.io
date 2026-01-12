@@ -6,23 +6,6 @@ redirect_from:
   - /resume
 ---
 
-Work experience
-======
-* July 2024-Present: Postdoctoral Associate 
-  * Yale University, USA
-  * Duties included: Medical Large Language Model, Federated Learning
-  * Supervisor: Prof. Qingyu Chen 
-    
-* Dec 2021-June 2024: Research Fellow 
-  * Nanyang Technological University, Singapore
-  * Duties included: Trustworthy AI, Data Selection, Federated Learning and Graph Learning
-  * Supervisor: Prof. Yang Liu, Prof. Han Yu, Prof. Luu Anh Tuan
-    
-* June 2021-Dec 2021: Postdoc 
-  * University of Science and Technology of China
-  * Duties included: Data Quality Assessment, Federated Learning and Internship at Tencent, Shanghai
-  * Supervisor: Prof. Xiang-Yang Li 
-
 Service and Activities
 ======
 * **Reviewers**
