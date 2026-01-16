@@ -40,21 +40,7 @@ Recent News
 16. [2025.03.01] Our paper "QFEVAL: Quantum Federated Ensembled Variational Adaptive Learning for Dynamic Security Assessment in Cyber-Physical Systems" was accepted by IEEE Journal on Selected Areas in Communications (**JSAC 2025**). 
 17. [2025.02.24] Our paper "FedPPO: Reinforcement Learning-based Client Selection for Federated Learning with Heterogeneous Data" was accepted by IEEE Transactions on Cognitive Communications and Networking (**TCCN 2025**). 
 18. [2025.01.12] Our paper "Advances and Open Challenges in Federated Foundation Models" was accepted by IEEE Communications Surveys and Tutorials (**IEEE COMST**) 2025, **IF: 34.4**. 
-19. [2024.12.09] Our paper "MultiSFL: Towards Accurate Split Federated Learning via Multi-Model Aggregation and Knowledge Replay" was accepted by **AAAI 2025**. 
-20. [2024.08.27] Our paper "Joint Client-and-Sample Selection for Federated Learning via Bi-level Optimization" was accepted by **IEEE TMC 2024**.
-21. [2024.08.27] Dr. Anran Li served as a PC member of **FL@FM-NeurIPS'24**. 
-22. [2024.08.13] Dr. Anran Li served as a PC member of **AAAI 2025**.
-23. [2024.08.06] Our paper "VulAdvisor: Natural Language Suggestion Generation for Software Vulnerability Repair" was accepted by **ASE 2024**. 
-24. [2024.07.29] Our paper "Privacy-preserving Data Selection for Horizontal and Vertical Federated Learning" was accepted by IEEE Transactions on Parallel and Distributed Systems (**IEEE TPDS 2024**). 
-25. [2024.07.15] Our paper "CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance" was accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**IEEE TCAD 2024**). 
-26. [2024.07.12] Our paper "FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios" was accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**IEEE TCAD 2024**). 
-27. [2024.07.01] Dr. Anran Li joined the Department of Biomedical Informatics & Data Science, School of Medicine at Yale University as a Postdoctoral Associate. 
-28. [2024.04.17] Our paper "Dual Calibration-based Personalised Federated Learning" was accepted by **IJCAI 2024**. 
-29. [2024.04.04] Dr. Anran Li received the SIGMOD 2024 scholarship award. 
-30. [2024.03.15] Dr. Anran Li served as a PC member of **FL@FM-IJCAI'24**. 
-31. [2024.02.23] Our paper "Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning" was accepted by **ACM SIGMOD 2024**. 
-32. [2024.01.23] Our paper "Federated Graph Neural Networks: Overview, Techniques and Challenges" was accepted by **IEEE TNNLS 2024**.
-33. [2024.01.17] Dr. Anran Li served as a PC member of **IJCAI 2024**.
+
 
 ## Contact
 
