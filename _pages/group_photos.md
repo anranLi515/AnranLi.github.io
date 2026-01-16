@@ -15,12 +15,12 @@ Xu and Chen teams, Yale University, at retreat 2025 Skytop Lodge, Pennsylvania
 {: style="text-align:center;" }
 Luu team 2024 at Nanyang Technological University, Singapore 
 
-![Liu_team]({{ '/assets/images/group_photos/Luu_team.jpg' | relative_url }}){: width="82%" style="display:block; margin:auto;" }
+![Liu_team]({{ '/assets/images/group_photos/Liu_team.jpg' | relative_url }}){: width="82%" style="display:block; margin:auto;" }
 
 {: style="text-align:center;" }
 Liu Cyber Security Lab 2023 at Nanyang Technological University, Singapore 
 
-![Yu_team]({{ '/assets/images/group_photos/Luu_team.jpg' | relative_url }}){: width="82%" style="display:block; margin:auto;" }
+![Yu_team]({{ '/assets/images/group_photos/Yu_team.jpg' | relative_url }}){: width="82%" style="display:block; margin:auto;" }
 
 {: style="text-align:center;" }
 Yu Trustworthy Federated Ubiquitous Learning (TrustFUL) Research Lab 2023 at Nanyang Technological University, Singapore 
