@@ -23,5 +23,5 @@ Liu Cyber Security Lab 2023 at Nanyang Technological University, Singapore
 ![Yu_team]({{ '/assets/images/group_photos/Yu_team.jpg' | relative_url }}){: width="82%" style="display:block; margin:auto;" }
 
 {: style="text-align:center;" }
-Yu Trustworthy Federated Ubiquitous Learning (TrustFUL) Research Lab 2023 at Nanyang Technological University, Singapore 
+Yu Trustworthy Federated Ubiquitous Learning Research Lab 2023 at Nanyang Technological University, Singapore 
 
