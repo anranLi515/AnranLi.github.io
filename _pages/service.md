@@ -36,13 +36,13 @@ Attended Conferences
   
 Talks
 ------
-* Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implications, AMIA 2025 Annual Symposium, November, 2025
-* Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning, ACM SIGMOD Conference, June, 2024
-* FedCSS: Joint Client-and-Sample Selection for Hard Sample-Aware Noise-Robust Federated Learning, ACM SIGMOD Conference, June, 2024 
-* FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning, IEEE INFOCOM Conference, May, 2023 
-* Sample-level Data Selection for Federated Learning, IEEE INFOCOM Conference, May, 2021
-* Efficient Federated-Learning Model Debugging, IEEE ICDE Conference, April, 2021 
-* TODQA: Efficient Task-Oriented Data Quality Assessment, IEEE MSN Conference, December, 2019 
+* Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implications, AMIA 2025 Annual Symposium, November 2025
+* Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning, ACM SIGMOD Conference, June 2024
+* FedCSS: Joint Client-and-Sample Selection for Hard Sample-Aware Noise-Robust Federated Learning, ACM SIGMOD Conference, June 2024 
+* FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning, IEEE INFOCOM Conference, May 2023 
+* Sample-level Data Selection for Federated Learning, IEEE INFOCOM Conference, May 2021
+* Efficient Federated-Learning Model Debugging, IEEE ICDE Conference, April 2021 
+* TODQA: Efficient Task-Oriented Data Quality Assessment, IEEE MSN Conference, December 2019 
   
 Volunteers   
 ------
