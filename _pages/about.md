@@ -23,7 +23,7 @@ Work Experience
 Recent News
 ------
 1. [2026.02.20] Our paper "Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implications" was accepted by **Nature Communications 2026**. Congratulations to all! 
-2. [2026.02.17] Dr. Li served as a reviewer for IEEE CSUR2026, TDSC 2026, IEEE TNNLS 2026,  KDD 2026 AI4Science. 
+2. [2026.02.17] Dr. Li served as a reviewer for IEEE CSUR 2026, TDSC 2026, IEEE TNNLS 2026,  KDD 2026 AI4Science. 
 3. [2026.01.13] Our paper "The Power of Penalties: Negativity-Aware Incentives for High-Quality Crowdsourced Data Labeling" was accepted by **The Web Conference 2026 (WWW 2026)**. Congratulations to Kai! 
 4. [2026.01.11] Our paper "VTarbel: Targeted Label Attack with Minimal Knowledge on Detector-enhanced Vertical Federated Learning" was accepted by **ACM Transactions on Sensor Networks (ACM TOSN 2026)**. Congratulations to Juntao! 
 5. [2026.01.05] Dr. Li served as a reviewer for CVPR 2026. 
