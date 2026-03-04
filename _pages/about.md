@@ -22,7 +22,7 @@ Work Experience
 
 Recent News
 ------
-1. [2026.03.03] Our paper "LMOD+: A Comprehensive Multimodal Dataset and Benchmark for Developing and Evaluating Multimodal Large Language Models in Ophthalmology" was accepted by ACM Transactions on Computing for Healthcare. Congratulations to Zhenyue! 
+1. [2026.03.03] Our paper "LMOD+: A Comprehensive Multimodal Dataset and Benchmark for Developing and Evaluating Multimodal Large Language Models in Ophthalmology" was accepted by **ACM Transactions on Computing for Healthcare**. Congratulations to Zhenyue! 
 2. [2026.02.20] Our paper "Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implications" was accepted by **Nature Communications 2026**. Congratulations to all! 
 3. [2026.02.17] Dr. Li served as a reviewer for IEEE CSUR 2026, IEEE TDSC 2026, IEEE TNNLS 2026, KDD 2026 AI4Science. 
 4. [2026.01.13] Our paper "The Power of Penalties: Negativity-Aware Incentives for High-Quality Crowdsourced Data Labeling" was accepted by **The Web Conference 2026 (WWW 2026)**. Congratulations to Kai! 
