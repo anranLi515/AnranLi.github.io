@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am currently a pre-tenure professor in the School of Computer Science and Technology at the University of Science and Technology of China (USTC). Prior to joining USTC, I was a Postdoctoral Associate in the Department of Biomedical Informatics & Data Science at Yale University School of Medicine, where I worked with Prof. [Qingyu Chen](https://sites.google.com/view/qingyuchen/home) and also closely collaborated with Prof. [Hua Xu](https://medicine.yale.edu/profile/hua-xu/), Prof. [Lucila Ohno-Machado](https://medicine.yale.edu/profile/lucila-ohno-machado/) (MD, MBA, PhD), and Prof. [Hyunghoon Cho](https://medicine.yale.edu/profile/hoon-cho/). Before that, I was a Research Fellow in the College of Computing and Data Science at Nanyang Technological University, working with Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/), Prof. [Han Yu](https://personal.ntu.edu.sg/han.yu/) and Prof. [Luu Anh Tuan](https://tuanluu.github.io/). I received my Ph.D degree from the School of Computer Science and Technology at USTC, advised by Prof. [Xiangyang Li](http://staff.ustc.edu.cn/~xiangyangli/index.html) and Prof. [Lan Zhang](http://cs.ustc.edu.cn/2020/0706/c23235a460088/page.htm). My research interests include trustworthy AI, medical large language models (LLMs), federated learning and graph learning. 
 
-<span style="color:#DC143C;">I am always open to collaborations. If you share similar interests, please feel free to reach out!</span> 
+<span style="color:#DC143C;">We are looking for passionate PhD, research assistants, and visiting students to join the team!</span> 
 
 
 Work Experience 
