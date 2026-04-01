@@ -23,27 +23,28 @@ Work Experience
 
 Recent News
 ------
-1. [2026.03.03] Our paper "LMOD+: A Comprehensive Multimodal Dataset and Benchmark for Developing and Evaluating Multimodal Large Language Models in Ophthalmology" was accepted by **ACM Transactions on Computing for Healthcare**. Congratulations to Zhenyue! 
-2. [2026.02.20] Our paper "Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implications" was accepted by **Nature Communications 2026**. Congratulations to all! 
-3. [2026.02.17] Dr. Li served as a reviewer for IEEE CSUR 2026, IEEE TDSC 2026, IEEE TNNLS 2026, KDD 2026 AI4Science. 
-4. [2026.01.13] Our paper "The Power of Penalties: Negativity-Aware Incentives for High-Quality Crowdsourced Data Labeling" was accepted by **The Web Conference 2026 (WWW 2026)**. Congratulations to Kai! 
-5. [2026.01.11] Our paper "VTarbel: Targeted Label Attack with Minimal Knowledge on Detector-enhanced Vertical Federated Learning" was accepted by **ACM Transactions on Sensor Networks (ACM TOSN 2026)**. Congratulations to Juntao! 
-6. [2026.01.05] Dr. Li served as a reviewer for CVPR 2026. 
-7. [2025.12.25] Our paper "Evaluating Large Language Models for Line-Level Vulnerability Localization" was accepted by **IEEE Transactions on Software Engineering (IEEE TSE 2025)**. 
-8. [2025.12.17] Dr. Li served as a reviewer for npj Health Systems. 
-9. [2025.09.29] Our paper "FGRW: Fine-Grained Reversible Watermarking based on Distribution-Adaptive Contrastive Augmentation across Diverse Domains" was accepted by **IEEE TDSC 2025**. 
-10. [2025.09.26] Our paper "Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implications" was accepted by **AMIA 2025 Annual Symposium** as a Late Breaking Poster. 
-11. [2025.09.26] Our paper "Bridging the Development-Implementation Gap in Clinical NER: An Empirical Study on Input Length Effects for Real-World Deployment" was accepted by **AMIA 2025 Annual Symposium** as a Late Breaking Poster. 
-12. [2025.09.24] Dr. Li served as a PC member of **Machine Learning** and **Scientific Reports**. 
-13. [2025.09.10] Our paper "Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implication" was submitted to arXiv.
-14. [2025.07.17] Dr. Anran Li served as a PC member of **AAAI-26** and **AAAI-26-AIA**.   
-15. [2025.05.28] Our paper "Can OpenAI o1 Reason Well in Ophthalmology? A 6,990-Question Head-to-Head Evaluation Study" was accepted by **JAMA Ophthalmology 2025**. 
-16. [2025.05.19] Our paper "RF-Eye: Commodity RFID Can Know What You Write and Who You Are Wherever You Are" was accepted by Transactions on Sensor Networks (**TOSN 2025**).
-17. [2025.05.09] Dr. Anran Li was invited to give a talk at Envisioning AI at Yale: An Interdisciplinary Symposium 2025. 
-18. [2025.04.16] Dr. Anran Li served as a PC member of **CFAgentic@ICML'25**. 
-19. [2025.03.01] Our paper "QFEVAL: Quantum Federated Ensembled Variational Adaptive Learning for Dynamic Security Assessment in Cyber-Physical Systems" was accepted by IEEE Journal on Selected Areas in Communications (**JSAC 2025**). 
-20. [2025.02.24] Our paper "FedPPO: Reinforcement Learning-based Client Selection for Federated Learning with Heterogeneous Data" was accepted by IEEE Transactions on Cognitive Communications and Networking (**TCCN 2025**). 
-21. [2025.01.12] Our paper "Advances and Open Challenges in Federated Foundation Models" was accepted by IEEE Communications Surveys and Tutorials (**IEEE COMST**) 2025, **IF: 34.4**. 
+1. [2026.03.13] Our paper "Verify Claimed Text-to-Image Models via Boundary-Aware Prompt Optimization" was accepted by CVPR 2026. Congratulations to Zidong! 
+2. [2026.03.03] Our paper "LMOD+: A Comprehensive Multimodal Dataset and Benchmark for Developing and Evaluating Multimodal Large Language Models in Ophthalmology" was accepted by **ACM Transactions on Computing for Healthcare**. Congratulations to Zhenyue! 
+3. [2026.02.20] Our paper "Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implications" was accepted by **Nature Communications 2026**. Congratulations to all! 
+4. [2026.02.17] Dr. Li served as a reviewer for IEEE CSUR 2026, IEEE TDSC 2026, IEEE TNNLS 2026, KDD 2026 AI4Science. 
+5. [2026.01.13] Our paper "The Power of Penalties: Negativity-Aware Incentives for High-Quality Crowdsourced Data Labeling" was accepted by **The Web Conference 2026 (WWW 2026)**. Congratulations to Kai! 
+6. [2026.01.11] Our paper "VTarbel: Targeted Label Attack with Minimal Knowledge on Detector-enhanced Vertical Federated Learning" was accepted by **ACM Transactions on Sensor Networks (ACM TOSN 2026)**. Congratulations to Juntao! 
+7. [2026.01.05] Dr. Li served as a reviewer for CVPR 2026. 
+8. [2025.12.25] Our paper "Evaluating Large Language Models for Line-Level Vulnerability Localization" was accepted by **IEEE Transactions on Software Engineering (IEEE TSE 2025)**. 
+9. [2025.12.17] Dr. Li served as a reviewer for npj Health Systems. 
+10. [2025.09.29] Our paper "FGRW: Fine-Grained Reversible Watermarking based on Distribution-Adaptive Contrastive Augmentation across Diverse Domains" was accepted by **IEEE TDSC 2025**. 
+11. [2025.09.26] Our paper "Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implications" was accepted by **AMIA 2025 Annual Symposium** as a Late Breaking Poster. 
+12. [2025.09.26] Our paper "Bridging the Development-Implementation Gap in Clinical NER: An Empirical Study on Input Length Effects for Real-World Deployment" was accepted by **AMIA 2025 Annual Symposium** as a Late Breaking Poster. 
+13. [2025.09.24] Dr. Li served as a PC member of **Machine Learning** and **Scientific Reports**. 
+14. [2025.09.10] Our paper "Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implication" was submitted to arXiv.
+15. [2025.07.17] Dr. Anran Li served as a PC member of **AAAI-26** and **AAAI-26-AIA**.   
+16. [2025.05.28] Our paper "Can OpenAI o1 Reason Well in Ophthalmology? A 6,990-Question Head-to-Head Evaluation Study" was accepted by **JAMA Ophthalmology 2025**. 
+17. [2025.05.19] Our paper "RF-Eye: Commodity RFID Can Know What You Write and Who You Are Wherever You Are" was accepted by Transactions on Sensor Networks (**TOSN 2025**).
+18. [2025.05.09] Dr. Anran Li was invited to give a talk at Envisioning AI at Yale: An Interdisciplinary Symposium 2025. 
+19. [2025.04.16] Dr. Anran Li served as a PC member of **CFAgentic@ICML'25**. 
+20. [2025.03.01] Our paper "QFEVAL: Quantum Federated Ensembled Variational Adaptive Learning for Dynamic Security Assessment in Cyber-Physical Systems" was accepted by IEEE Journal on Selected Areas in Communications (**JSAC 2025**). 
+21. [2025.02.24] Our paper "FedPPO: Reinforcement Learning-based Client Selection for Federated Learning with Heterogeneous Data" was accepted by IEEE Transactions on Cognitive Communications and Networking (**TCCN 2025**). 
+22. [2025.01.12] Our paper "Advances and Open Challenges in Federated Foundation Models" was accepted by IEEE Communications Surveys and Tutorials (**IEEE COMST**) 2025, **IF: 34.4**. 
 
 
 ## Contact
