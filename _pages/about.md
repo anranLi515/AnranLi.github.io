@@ -23,7 +23,7 @@ Work Experience
 
 Recent News
 ------
-1. [2026.03.13] Our paper "Verify Claimed Text-to-Image Models via Boundary-Aware Prompt Optimization" was accepted by CVPR 2026. Congratulations to Zidong! 
+1. [2026.03.13] Our paper "Verify Claimed Text-to-Image Models via Boundary-Aware Prompt Optimization" was accepted by **CVPR 2026**. Congratulations to Zidong! 
 2. [2026.03.03] Our paper "LMOD+: A Comprehensive Multimodal Dataset and Benchmark for Developing and Evaluating Multimodal Large Language Models in Ophthalmology" was accepted by **ACM Transactions on Computing for Healthcare**. Congratulations to Zhenyue! 
 3. [2026.02.20] Our paper "Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implications" was accepted by **Nature Communications 2026**. Congratulations to all! 
 4. [2026.02.17] Dr. Li served as a reviewer for IEEE CSUR 2026, IEEE TDSC 2026, IEEE TNNLS 2026, KDD 2026 AI4Science. 
