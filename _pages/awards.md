@@ -6,7 +6,7 @@ author_profile: true
 --- 
 
 
-* The Web Conference 2026 Best Paper Award candidate 
+* The Web Conference (WWW) 2026 Best Paper Award candidate 
 * The SIGMOD 2024 scholarship award 
 * Award of outstanding contribution to Singapore community 2023 
 * The President of the Chinese Academy of Science praises 2021 
