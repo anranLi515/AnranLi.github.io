@@ -23,7 +23,7 @@ Work Experience
 
 Recent News
 ------
-1. [2026.07.22] Our paper "Toward Federated Large Language Models in Medicine: A Parameter-Efficient Framework for Privacy-Preserving, Multi-Institutional Adaptation" was accepted by **npj digital Medicine 2026**. Congratulations to all! 
+1. [2026.07.22] Our paper "Toward Federated Large Language Models in Medicine: A Parameter-Efficient Framework for Privacy-Preserving, Multi-Institutional Adaptation" was accepted by **npj Digital Medicine 2026**. Congratulations to all! 
 2. [2026.05.24] Our paper "The Power of Penalties: Negativity-Aware Incentives for High-Quality Crowdsourced Data Labeling" was shortlisted as a Best Paper Award candidate at WWW 2026. Congratulations to all! 
 3. [2026.05.04] Our paper "Enhancing Stereo Matching Domain Generalization with Adversarial Domain Alignment" was accepted by **IEEE TDSC 2026**. Congratulations to Shiqian! 
 4. [2026.03.13] Our paper "Verify Claimed Text-to-Image Models via Boundary-Aware Prompt Optimization" was accepted by **CVPR Findings 2026**. Congratulations to Zidong! 
