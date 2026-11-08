@@ -23,7 +23,7 @@ Work Experience
 
 Recent News
 ------
-1. [2026.11.04] Our paper "LeJOT: Human-in-the-Loop Cost-Aware Databricks Workflow Orchestration" was accepted as a poster in IAAI 2027 and received the IAAI Deployed Application Award. Congratulations to all! 
+1. [2026.11.04] Our paper "LeJOT: Human-in-the-Loop Cost-Aware Databricks Workflow Orchestration" was accepted as a poster in IAAI 2027 and received the **IAAI Deployed Application Award**. Congratulations to all! 
 2. [2026.11.03] Our team won three second-place awards and one third-place award in the [2026 National Big Data and Computational Intelligence Challenge](https://challenge.pazhoulab-huangpu.com/#home) (2/269, 2/249, 2/182, 3/615). Congratulations to all! 
 3. [2026.07.22] Our paper "Toward Federated Large Language Models in Medicine: A Parameter-Efficient Framework for Privacy-Preserving, Multi-Institutional Adaptation" was accepted by **npj Digital Medicine 2026**. Congratulations to all! 
 4. [2026.05.24] Our paper "The Power of Penalties: Negativity-Aware Incentives for High-Quality Crowdsourced Data Labeling" was shortlisted as a Best Paper Award candidate at WWW 2026. Congratulations to all! 
